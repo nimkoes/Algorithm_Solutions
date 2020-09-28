@@ -40,7 +40,7 @@ public class _005_dart_game {
         int subS, subE;
         for(int i = 0; i < dartResult.length(); ++i) {
             int temp = dartResult.charAt(i);
-            if(temp == 83 || temp == 68 || temp == 84) {  // "S" "D" "T"
+            if(temp == 'S' || temp == 'D' || temp == 'T') {
                 subS = i - 1;
                 if(dartResult.charAt(i-1) == 48 && i > 1) {
                     if(dartResult.charAt(i-2) == 49) subS = i-2;
@@ -48,7 +48,7 @@ public class _005_dart_game {
     
                 subE = i + 1;
                 if (i + 1 < dartResult.length()) {
-                    if (dartResult.charAt(i + 1) == 42 || dartResult.charAt(i + 1) == 35) {  // "*", "#"
+                    if (dartResult.charAt(i + 1) == '*' || dartResult.charAt(i + 1) == '#') {
                         subE = i + 2;
                     }
                 }
