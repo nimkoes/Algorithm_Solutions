@@ -42,8 +42,8 @@ public class _005_dart_game {
             int temp = dartResult.charAt(i);
             if(temp == 'S' || temp == 'D' || temp == 'T') {
                 subS = i - 1;
-                if(dartResult.charAt(i-1) == 48 && i > 1) {
-                    if(dartResult.charAt(i-2) == 49) subS = i-2;
+                if(dartResult.charAt(i-1) == '0' && i > 1) {
+                    if(dartResult.charAt(i-2) == '1') subS = i-2;
                 }
     
                 subE = i + 1;
@@ -68,7 +68,7 @@ public class _005_dart_game {
             list.get(i).SDTType(shot_info.substring(sub_index, sub_index+1));
             
             if(shot_info.length() - sub_index > 1) {
-                if(shot_info.charAt(shot_info.length()-1) == 42) {
+                if(shot_info.charAt(shot_info.length()-1) == '*') {
                     list.get(i).star();
                     if(i != 0) list.get(i-1).star();
                 } else {
