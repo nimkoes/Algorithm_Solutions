@@ -63,7 +63,7 @@ public class _021_predict_confrontation_table {
         }
     
         _021_predict_confrontation_table_TEST_ENV[] env = new _021_predict_confrontation_table_TEST_ENV[1];
-        env[0] = new _021_predict_confrontation_table_TEST_ENV(8, 1, 2, 3);
+        env[0] = new _021_predict_confrontation_table_TEST_ENV(8, 4, 7, 3);
 
         /*******************************
          * SET TEST CASE END
