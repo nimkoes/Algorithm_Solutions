@@ -6,11 +6,11 @@ public class _024_removing_pairs {
     
     public int solution(String s) {
         Stack<Character> st = new Stack<>();
-        for (int i = 0; i < s.length(); ++i) {
-            if (st.size() == 0 || st.peek() != s.charAt(i)) st.push(s.charAt(i));
+        for (char c : s.toCharArray()) {
+            if (st.empty() || st.peek() != c) st.push(c);
             else st.pop();
         }
-        return st.size() > 0 ? 0 : 1;
+        return st.empty() ? 1 : 0;
     }
 
     public static void main(String[] ar) {
