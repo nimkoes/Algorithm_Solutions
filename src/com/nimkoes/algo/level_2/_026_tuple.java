@@ -17,19 +17,15 @@ public class _026_tuple {
         for (int i = 0; i < temp.length; ++i) {
             str[i] = temp[i].split(",");
             ll = new LinkedList<>();
-            
-            for (String elem : str[i]) {
-                ll.add(elem);
-            }
+    
+            Collections.addAll(ll, str[i]);
             hm.put(ll.size(), ll);
         }
         
         answer = new int[hm.size()];
         
         String already;
-        answer[0] = Integer.parseInt((already = hm.get(1).getFirst()));
-        set.add(already);
-        for (int i = 1; i < hm.size(); ++i) {
+        for (int i = 0; i < hm.size(); ++i) {
             LinkedList<String> strings = hm.get(i + 1);
             for (String string : strings) {
                 if (!set.contains(string)) {
