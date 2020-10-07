@@ -26,8 +26,7 @@ public class _026_tuple {
         
         String already;
         for (int i = 0; i < hm.size(); ++i) {
-            LinkedList<String> strings = hm.get(i + 1);
-            for (String string : strings) {
+            for (String string : hm.get(i + 1)) {
                 if (!set.contains(string)) {
                     answer[i] = Integer.parseInt(string);
                     set.add(string);
