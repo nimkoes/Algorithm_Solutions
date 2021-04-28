@@ -23,5 +23,4 @@ public class _a_player_who_could_not_finish {
         
         return answer;
     }
-    
 }

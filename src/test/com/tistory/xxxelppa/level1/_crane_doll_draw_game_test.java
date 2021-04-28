@@ -50,5 +50,4 @@ class _crane_doll_draw_game_test {
             assertThat(solution.solution(aCase.getBoard(), aCase.getMoves())).isEqualTo(aCase.getExpected());
         }
     }
-    
 }

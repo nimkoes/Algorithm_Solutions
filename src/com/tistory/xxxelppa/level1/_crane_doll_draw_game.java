@@ -3,7 +3,6 @@ package com.tistory.xxxelppa.level1;
 import java.util.Stack;
 
 public class _crane_doll_draw_game {
-    
     public int solution(int[][] board, int[] moves) {
         int answer = 0;
         // 집어올린 인형을 담을 바구니 생성
@@ -49,5 +48,4 @@ public class _crane_doll_draw_game {
         // 계산한 터진 인형의 개수를 반환
         return answer;
     }
-    
 }
