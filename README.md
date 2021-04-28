@@ -9,9 +9,10 @@
 - 대부분의 **설명은 코드 내 주석**으로 작성 했으며, **필요에 따라** 일부 별도의 설명을 추가
 - [**주석 이외의 추가 설명은 블로그**](http://xxxelppa.tistory.com)에 정리
 - 클래스명은 구글 번역기를 사용
-- 테스트 라이브러리
+- 라이브러리
   - org.junit.jupiter:junit-jupiter:5.7.1
   - org.assertj:assertj-core:3.19.0
+  - org.projectlombok:lombok:1.18.16
 
 #### level 1
 |번호|분류|문제이름|클래스이름|
