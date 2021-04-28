@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+@DisplayName("크레인 인형뽑기 게임")
 class _crane_doll_draw_game_test {
     
     _crane_doll_draw_game solution;
@@ -24,4 +25,5 @@ class _crane_doll_draw_game_test {
     
         assertThat(solution.solution(board, moves)).isEqualTo(4);
     }
+    
 }
