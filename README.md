@@ -26,7 +26,7 @@
 |:---:|---|---|---|
 |001|2019 카카오 개발자 겨울 인턴십|[크레인 인형뽑기 게임](https://xxxelppa.tistory.com/137)|[_crane_doll_draw_game](https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_crane_doll_draw_game.java)|
 |002|해시|[완주하지 못한 선수](https://xxxelppa.tistory.com/139)|[_a_player_who_could_not_finish](https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_a_player_who_could_not_finish.java)|
-|003|2021 KAKAO BLIND RECRUITMENT|신규 아이디 추천|_recommend_new_id|
+|003|2021 KAKAO BLIND RECRUITMENT|[신규 아이디 추천](https://xxxelppa.tistory.com/138)|[_recommend_new_id](https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_recommend_new_id.java)|
 |004|완전탐색|모의고사|_practice_test|
 |005|탐욕법(Greedy)|체육복|_gym_suit|
 |006|정렬|K번째수|_kth_number|
