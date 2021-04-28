@@ -10,58 +10,48 @@ import java.util.ArrayList;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("신규 아이디 추천")
-class _recommend_new_id_test {
+@DisplayName("로또의 최고 순위와 최저 순위")
+class _lotto_highest_and_lowest_rankings_test {
     
     @Builder
     @Getter
     static class TestCase {
-        String new_id;
+        int[] lottos;
+        int[] win_nums;
         
-        String expected;
+        int[] expected;
     }
     
-    _recommend_new_id solution;
+    _lotto_highest_and_lowest_rankings solution;
     ArrayList<TestCase> testCase;
     
     
     @BeforeEach
     void setUp() {
-        solution = new _recommend_new_id();
+        solution = new _lotto_highest_and_lowest_rankings();
         testCase = new ArrayList<>();
         
         testCase.add(
                 new TestCase.TestCaseBuilder()
-                        .new_id("...!@BaT#*..y.abcdefghijklm")
-                        .expected("bat.y.abcdefghi")
+                        .lottos(new int[]{44, 1, 0, 0, 31, 25})
+                        .win_nums(new int[]{31, 10, 45, 1, 6, 19})
+                        .expected(new int[]{3, 5})
                         .build()
         );
         
         testCase.add(
                 new TestCase.TestCaseBuilder()
-                        .new_id("z-+.^.")
-                        .expected("z--")
+                        .lottos(new int[]{0, 0, 0, 0, 0, 0})
+                        .win_nums(new int[]{38, 19, 20, 40, 15, 25})
+                        .expected(new int[]{1, 6})
                         .build()
         );
         
         testCase.add(
                 new TestCase.TestCaseBuilder()
-                        .new_id("=.=")
-                        .expected("aaa")
-                        .build()
-        );
-        
-        testCase.add(
-                new TestCase.TestCaseBuilder()
-                        .new_id("123_.def")
-                        .expected("123_.def")
-                        .build()
-        );
-        
-        testCase.add(
-                new TestCase.TestCaseBuilder()
-                        .new_id("abcdefghijklmn.p")
-                        .expected("abcdefghijklmn")
+                        .lottos(new int[]{45, 4, 35, 20, 3, 9})
+                        .win_nums(new int[]{20, 9, 3, 45, 4, 35})
+                        .expected(new int[]{1, 1})
                         .build()
         );
         
@@ -71,7 +61,7 @@ class _recommend_new_id_test {
     @DisplayName("입출력 예 테스트")
     void solution() {
         for (TestCase aCase : testCase) {
-            assertThat(solution.solution(aCase.getNew_id()))
+            assertThat(solution.solution(aCase.getLottos(), aCase.getWin_nums()))
                     .isEqualTo(aCase.getExpected());
         }
     }
