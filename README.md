@@ -22,8 +22,8 @@
   - org.projectlombok:lombok:1.18.16
 
 #### level 1
-|번호|분류|문제이름|클래스이름|테스트코드|
-|:---:|---|---|---|---|
+|번호|분류|문제이름|클래스이름|
+|:---:|---|---|---|
 |001|2019 카카오 개발자 겨울 인턴십|[크레인 인형뽑기 게임](https://xxxelppa.tistory.com/137)|[_crane_doll_draw_game](https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_crane_doll_draw_game.java)|
 |002|해시|[완주하지 못한 선수](https://xxxelppa.tistory.com/139)|[_a_player_who_could_not_finish](https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_a_player_who_could_not_finish.java)|
 |003|2021 KAKAO BLIND RECRUITMENT|신규 아이디 추천|_recommend_new_id|
