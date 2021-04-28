@@ -1,15 +1,16 @@
 package com.tistory.xxxelppa.level1;
 
+import static org.assertj.core.api.Assertions.assertThat;
 
 import lombok.Builder;
 import lombok.Getter;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 
-import static org.assertj.core.api.Assertions.assertThat;
 
 @DisplayName("크레인 인형뽑기 게임")
 class _crane_doll_draw_game_test {

@@ -1,19 +1,22 @@
 package com.tistory.xxxelppa.level1;
 
+import static org.assertj.core.api.Assertions.assertThat;
+
 import lombok.Builder;
 import lombok.Getter;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 
-import static org.assertj.core.api.Assertions.assertThat;
 
 @DisplayName("완주하지 못한 선수")
 class _a_player_who_could_not_finish_test {
     
-    @Builder @Getter
+    @Builder
+    @Getter
     static class TestCase {
         String[] participant;
         String[] completion;
@@ -29,7 +32,7 @@ class _a_player_who_could_not_finish_test {
     void setUp() {
         solution = new _a_player_who_could_not_finish();
         testCase = new ArrayList<>();
-    
+        
         testCase.add(
                 new TestCase.TestCaseBuilder()
                         .participant(new String[]{"leo", "kiki", "eden"})
@@ -64,4 +67,5 @@ class _a_player_who_could_not_finish_test {
                     .isEqualTo(aCase.getExpected());
         }
     }
+    
 }
