@@ -31,7 +31,7 @@
 |002|해시|[완주하지 못한 선수][link_level_1_002]|[_a_player_who_could_not_finish][link_level_1_002_source]|
 |003|2021 KAKAO BLIND RECRUITMENT|[신규 아이디 추천][link_level_1_003]|[_recommend_new_id][link_level_1_003_source]|
 |004|완전탐색|[모의고사][link_level_1_004]|[_practice_test][link_level_1_004_source]|
-|005|탐욕법(Greedy)|체육복|_gym_clothes|
+|005|탐욕법(Greedy)|[체육복][link_level_1_005]|[_gym_clothes][link_level_1_005_source]|
 |006|정렬|K번째수|_kth_number|
 |007|연습문제|2016년|_2016|
 |008|연습문제|가운데 글자 가져오기|_bring_in_the_middle_letter|
@@ -86,7 +86,7 @@
 [link_level_1_002]:https://xxxelppa.tistory.com/139
 [link_level_1_003]:https://xxxelppa.tistory.com/138
 [link_level_1_004]:https://xxxelppa.tistory.com/140
-[link_level_1_005]:#
+[link_level_1_005]:https://xxxelppa.tistory.com/141
 [link_level_1_006]:#
 [link_level_1_007]:#
 [link_level_1_008]:#
@@ -135,7 +135,7 @@
 [link_level_1_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_a_player_who_could_not_finish.java
 [link_level_1_003_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_recommend_new_id.java
 [link_level_1_004_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_practice_test.java
-[link_level_1_005_source]:#
+[link_level_1_005_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_gym_clothes.java
 [link_level_1_006_source]:#
 [link_level_1_007_source]:#
 [link_level_1_008_source]:#
