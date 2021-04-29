@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 
 @DisplayName("크레인 인형뽑기 게임")
-class _crane_doll_draw_game_test {
+class _crane_game_test {
     
     @Builder
     @Getter
@@ -24,13 +24,13 @@ class _crane_doll_draw_game_test {
         int expected;
     }
     
-    _crane_doll_draw_game solution;
+    _crane_game solution;
     ArrayList<TestCase> testCase;
     
     
     @BeforeEach
     void setUp() {
-        solution = new _crane_doll_draw_game();
+        solution = new _crane_game();
         testCase = new ArrayList<>();
         
         testCase.add(
