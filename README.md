@@ -88,7 +88,7 @@
 [link_level_1_004]:https://xxxelppa.tistory.com/140
 [link_level_1_005]:https://xxxelppa.tistory.com/141
 [link_level_1_006]:https://xxxelppa.tistory.com/142
-[link_level_1_007]:#
+[link_level_1_007]:https://xxxelppa.tistory.com/143
 [link_level_1_008]:#
 [link_level_1_009]:#
 [link_level_1_010]:#
@@ -137,7 +137,7 @@
 [link_level_1_004_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_practice_test.java
 [link_level_1_005_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_gym_clothes.java
 [link_level_1_006_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_kth_number.java
-[link_level_1_007_source]:#
+[link_level_1_007_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_2016.java
 [link_level_1_008_source]:#
 [link_level_1_009_source]:#
 [link_level_1_010_source]:#
