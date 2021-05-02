@@ -12,25 +12,25 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 @DisplayName("체육복")
 class _gym_clothes_test {
-
+    
     @Builder
     @Getter
     static class TestCase {
         int n;
         int[] lost;
         int[] reserve;
-
+        
         int expected;
     }
-
+    
     _gym_clothes solution;
     ArrayList<TestCase> testCases;
-
+    
     @BeforeEach
     void setUp() {
         solution = new _gym_clothes();
         testCases = new ArrayList<>();
-
+        
         testCases.add(
                 new TestCase.TestCaseBuilder()
                         .n(5)
@@ -39,7 +39,7 @@ class _gym_clothes_test {
                         .expected(5)
                         .build()
         );
-
+        
         testCases.add(
                 new TestCase.TestCaseBuilder()
                         .n(5)
@@ -48,7 +48,7 @@ class _gym_clothes_test {
                         .expected(4)
                         .build()
         );
-
+        
         testCases.add(
                 new TestCase.TestCaseBuilder()
                         .n(3)
@@ -57,9 +57,9 @@ class _gym_clothes_test {
                         .expected(2)
                         .build()
         );
-
+        
     }
-
+    
     @Test
     @DisplayName("입출력 예 테스트")
     void solution() {
@@ -67,5 +67,4 @@ class _gym_clothes_test {
             assertThat(solution.solution(aCase.getN(), aCase.getLost(), aCase.getReserve())).isEqualTo(aCase.getExpected());
         }
     }
-
 }
