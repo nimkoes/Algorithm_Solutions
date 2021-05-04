@@ -99,7 +99,7 @@
 |014|정렬|[가장 큰 수][link_level_2_014]|[_largest_number][link_level_2_014_source]|
 |015|스택/큐|[프린터][link_level_2_015]|[_printer][link_level_2_015_source]|
 |016|2017 팁스타운|[예상 대진표][link_level_2_016]|[_expected_draw][link_level_2_016_source]|
-|017|2018 KAKAO BLIND RECRUITMENT|[[1차] 뉴스 클러스터링][link_level_2_017]|[_(1st)_news_clustering][link_level_2_017_source]|
+|017|2018 KAKAO BLIND RECRUITMENT|[(1차) 뉴스 클러스터링][link_level_2_017]|[_(1st)_news_clustering][link_level_2_017_source]|
 |018|탐욕법(Greedy)|[조이스틱][link_level_2_018]|[_joystick][link_level_2_018_source]|
 |019|2020 KAKAO BLIND RECRUITMENT|[괄호 변환][link_level_2_019]|[_parenthesis_conversion][link_level_2_019_source]|
 |020|2019 카카오 개발자 겨울 인턴십|[튜플][link_level_2_020]|[_tuple][link_level_2_020_source]|
@@ -111,7 +111,7 @@
 |026|완전탐색|[카펫][link_level_2_026]|[_carpet][link_level_2_026_source]|
 |027|월간 코드 챌린지 시즌1|[삼각 달팽이][link_level_2_027]|[_triangular_snail][link_level_2_027_source]|
 |028|탐욕법(Greedy)|[구명보트][link_level_2_028]|[_lifeboat][link_level_2_028_source]|
-|029|2018 KAKAO BLIND RECRUITMENT|[[1차] 프렌즈4블록][link_level_2_029]|[_friends_4_block][link_level_2_029_source]|
+|029|2018 KAKAO BLIND RECRUITMENT|[(1차) 프렌즈4블록][link_level_2_029]|[_friends_4_block][link_level_2_029_source]|
 |030|스택/큐|[주식가격][link_level_2_030]|[_stock_price][link_level_2_030_source]|
 |031|Summer/Winter Coding(~2018)|[영어 끝말잇기][link_level_2_031]|[_english_ending][link_level_2_031_source]|
 |032|Summer/Winter Coding(~2018)|[점프와 순간 이동][link_level_2_032]|[_jump_and_teleport][link_level_2_032_source]|
@@ -120,11 +120,11 @@
 |035|월간 코드 챌린지 시즌1|[쿼드압축 후 개수 세기][link_level_2_035]|[_counting_after_quad_compression][link_level_2_035_source]|
 |036|Summer/Winter Coding(~2018)|[스킬트리][link_level_2_036]|[_skill_tree][link_level_2_036_source]|
 |037|연습문제|[가장 큰 정사각형 찾기][link_level_2_037]|[_find_the_largest_square][link_level_2_037_source]|
-|038|2018 KAKAO BLIND RECRUITMENT|[[3차] 방금그곡][link_level_2_038]|[_just_that_song][link_level_2_038_source]|
-|039|2018 KAKAO BLIND RECRUITMENT|[[3차] 압축][link_level_2_039]|[_compression][link_level_2_039_source]|
-|040|2018 KAKAO BLIND RECRUITMENT|[[3차] 파일명 정렬][link_level_2_040]|[_file_name_sorting][link_level_2_040_source]|
+|038|2018 KAKAO BLIND RECRUITMENT|[(3차) 방금그곡][link_level_2_038]|[_just_that_song][link_level_2_038_source]|
+|039|2018 KAKAO BLIND RECRUITMENT|[(3차) 압축][link_level_2_039]|[_compression][link_level_2_039_source]|
+|040|2018 KAKAO BLIND RECRUITMENT|[(3차) 파일명 정렬][link_level_2_040]|[_file_name_sorting][link_level_2_040_source]|
 |041|연습문제|[올바른 괄호][link_level_2_041]|[_correct_parenthesis][link_level_2_041_source]|
-|042|2018 KAKAO BLIND RECRUITMENT|[[3차] n진수 게임][link_level_2_042]|[_n-number_game][link_level_2_042_source]|
+|042|2018 KAKAO BLIND RECRUITMENT|[(3차) n진수 게임][link_level_2_042]|[_n-number_game][link_level_2_042_source]|
 |043|연습문제|[다음 큰 숫자][link_level_2_043]|[_next_big_number][link_level_2_043_source]|
 |044|연습문제|[땅따먹기][link_level_2_044]|[_ground_picking][link_level_2_044_source]|
 |045|연습문제|[숫자의 표현][link_level_2_045]|[_representation_of_numbers][link_level_2_045_source]|
