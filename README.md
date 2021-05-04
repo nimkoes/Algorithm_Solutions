@@ -98,13 +98,13 @@
 |013|2020 카카오 인턴십|[수식 최대화][link_level_2_013]|[_maximize_formula][link_level_2_013_source]|
 |014|정렬|[가장 큰 수][link_level_2_014]|[_largest_number][link_level_2_014_source]|
 |015|스택/큐|[프린터][link_level_2_015]|[_printer][link_level_2_015_source]|
-|016|2017 팁스타운|[예상 대진표][link_level_2_016]|[_expected_draw][link_level_2_016_source]|
-|017|2018 KAKAO BLIND RECRUITMENT|[(1차) 뉴스 클러스터링][link_level_2_017]|[_(1st)_news_clustering][link_level_2_017_source]|
+|016|2017 팁스타운|[예상 대진표][link_level_2_016]|[_knockout_stage_prediction][link_level_2_016_source]|
+|017|2018 KAKAO BLIND RECRUITMENT|[(1차) 뉴스 클러스터링][link_level_2_017]|[_news_clustering][link_level_2_017_source]|
 |018|탐욕법(Greedy)|[조이스틱][link_level_2_018]|[_joystick][link_level_2_018_source]|
 |019|2020 KAKAO BLIND RECRUITMENT|[괄호 변환][link_level_2_019]|[_parenthesis_conversion][link_level_2_019_source]|
 |020|2019 카카오 개발자 겨울 인턴십|[튜플][link_level_2_020]|[_tuple][link_level_2_020_source]|
 |021|스택/큐|[다리를 지나는 트럭][link_level_2_021]|[_truck_passing_the_bridge][link_level_2_021_source]|
-|022|정렬|[H-Index][link_level_2_022]|[_h-index][link_level_2_022_source]|
+|022|정렬|[H-Index][link_level_2_022]|[_h_index][link_level_2_022_source]|
 |023|해시|[위장][link_level_2_023]|[_camouflage][link_level_2_023_source]|
 |024|탐욕법(Greedy)|[큰 수 만들기][link_level_2_024]|[_making_a_big_number][link_level_2_024_source]|
 |025|2019 KAKAO BLIND RECRUITMENT|[후보키][link_level_2_025]|[_candidate_key][link_level_2_025_source]|
