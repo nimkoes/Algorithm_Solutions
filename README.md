@@ -291,13 +291,6 @@
 [link_level_2_049]:#
 [link_level_2_050]:#
 [link_level_2_051]:#
-[link_level_2_052]:#
-[link_level_2_053]:#
-[link_level_2_054]:#
-[link_level_2_055]:#
-[link_level_2_056]:#
-[link_level_2_057]:#
-[link_level_2_058]:#
 
 [link_level_2_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_function_development.java
 [link_level_2_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_take_a_group_photo.java
@@ -350,10 +343,3 @@
 [link_level_2_049_source]:#
 [link_level_2_050_source]:#
 [link_level_2_051_source]:#
-[link_level_2_052_source]:#
-[link_level_2_053_source]:#
-[link_level_2_054_source]:#
-[link_level_2_055_source]:#
-[link_level_2_056_source]:#
-[link_level_2_057_source]:#
-[link_level_2_058_source]:#
