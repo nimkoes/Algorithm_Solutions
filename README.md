@@ -83,64 +83,59 @@
 #### level 2
 |번호|분류|문제이름|클래스이름|
 |:---:|---|---|---|
-|001|스택/큐|[주식가격][link_level_2_001]|[stock_price][link_level_2_001_source]|
-|002|스택/큐|[다리를 지나는 트럭][link_level_2_002]|[the_truck_passing_the_bridge][link_level_2_002_source]|
-|003|스택/큐|[프린터][link_level_2_003]|[printer][link_level_2_003_source]|
-|004|연습문제|[124 나라의 숫자][link_level_2_004]|[number_of_124_countries][link_level_2_004_source]|
-|005|스택/큐|[기능개발][link_level_2_005]|[functional_development][link_level_2_005_source]|
-|006|2017 카카오코드 예선|[카카오프렌즈 컬러링북][link_level_2_006]|[kakao_friends_coloring_book][link_level_2_006_source]|
-|007|2020 KAKAO BLIND RECRUITMENT|[문자열 압축][link_level_2_007]|[string_compression][link_level_2_007_source]|
-|008|완전탐색|[소수 찾기][link_level_2_008]|[find_prime_numbers][link_level_2_008_source]|
-|009|2021 KAKAO BLIND RECRUITMENT|[메뉴 리뉴얼][link_level_2_009]|[menu_renewal][link_level_2_009_source]|
-|010|정렬|[가장 큰 수][link_level_2_010]|[the_largest_number][link_level_2_010_source]|
-|011|2020 KAKAO BLIND RECRUITMENT|[괄호 변환][link_level_2_011]|[parenthesis_conversion][link_level_2_011_source]|
-|012|탐욕법(Greedy)|[조이스틱][link_level_2_012]|[joystick][link_level_2_012_source]|
-|013|탐욕법(Greedy)|[큰 수 만들기][link_level_2_013]|[making_a_big_number][link_level_2_013_source]|
-|014|힙(Heap)|[더 맵게][link_level_2_014]|[more_spicy][link_level_2_014_source]|
-|015|정렬|[H-Index][link_level_2_015]|[h-index][link_level_2_015_source]|
-|016|해시|[전화번호 목록][link_level_2_016]|[list_of_phone_numbers][link_level_2_016_source]|
-|017|해시|[위장][link_level_2_017]|[camouflage][link_level_2_017_source]|
-|018|탐욕법(Greedy)|[구명보트][link_level_2_018]|[lifeboat][link_level_2_018_source]|
-|019|깊이/너비 우선 탐색(DFS/BFS)|[타겟 넘버][link_level_2_019]|[target_number][link_level_2_019_source]|
-|020|완전탐색|[카펫][link_level_2_020]|[carpet][link_level_2_020_source]|
-|021|2021 KAKAO BLIND RECRUITMENT|[순위 검색][link_level_2_021]|[rank_search][link_level_2_021_source]|
-|022|연습문제|[가장 큰 정사각형 찾기][link_level_2_022]|[find_the_largest_square][link_level_2_022_source]|
-|023|2017 카카오코드 본선|[단체사진 찍기][link_level_2_023]|[take_a_group_photo][link_level_2_023_source]|
-|024|2019 카카오 개발자 겨울 인턴십|[튜플][link_level_2_024]|[tuple][link_level_2_024_source]|
-|025|연습문제|[올바른 괄호][link_level_2_025]|[correct_parentheses][link_level_2_025_source]|
-|026|연습문제|[다음 큰 숫자][link_level_2_026]|[next_big_number][link_level_2_026_source]|
-|027|연습문제|[땅따먹기][link_level_2_027]|[picking_the_ground][link_level_2_027_source]|
-|028|찾아라 프로그래밍 마에스터|[게임 맵 최단거리][link_level_2_028]|[the_shortest_distance_in_the_game_map][link_level_2_028_source]|
-|029|월간 코드 챌린지 시즌1|[이진 변환 반복하기][link_level_2_029]|[repeat_the_binary_transformation][link_level_2_029_source]|
-|030|Summer/Winter Coding(~2018)|[스킬트리][link_level_2_030]|[skill_tree][link_level_2_030_source]|
-|031|월간 코드 챌린지 시즌1|[쿼드압축 후 개수 세기][link_level_2_031]|[count_count_after_quad_compression][link_level_2_031_source]|
-|032|Summer/Winter Coding(~2018)|[점프와 순간 이동][link_level_2_032]|[jump_and_teleport][link_level_2_032_source]|
-|033|Summer/Winter Coding(~2018)|[배달][link_level_2_033]|[delivery][link_level_2_033_source]|
-|034|Summer/Winter Coding(~2018)|[영어 끝말잇기][link_level_2_034]|[english_ending][link_level_2_034_source]|
-|035|월간 코드 챌린지 시즌2|[괄호 회전하기][link_level_2_035]|[rotate_parentheses][link_level_2_035_source]|
-|036|2021 Dev-Matching: 웹 백엔드 개발자(상반기)|[행렬 테두리 회전하기][link_level_2 036]|[rotate_matrix_borders][link_level_2_036_source]|
-|037|Summer/Winter Coding(~2018)|[방문 길이][link_level_2_037]|[landing_length][link_level_2_037_source]|
-|038|월간 코드 챌린지 시즌1|[삼각 달팽이][link_level_2_038]|[triangular_snail][link_level_2_038_source]|
-|039|Summer/Winter Coding(2019)|[멀쩡한 사각형][link_level_2_039]|[a_fine_square][link_level_2_039_source]|
-|040|연습문제|[숫자의 표현][link_level_2_040]|[representation_of_numbers][link_level_2_040_source]|
-|041|연습문제|[최댓값과 최솟값][link_level_2_041]|[maximum_and_minimum_values][link_level_2_041_source]|
-|042|연습문제|[최솟값 만들기][link_level_2_042]|[make_the_minimum][link_level_2_042_source]|
-|043|연습문제|[피보나치 수][link_level_2_043]|[fibonacci_number][link_level_2_043_source]|
-|044|2020 카카오 인턴십|[수식 최대화][link_level_2_044]|[maximize_the_formula][link_level_2_044_source]|
-|045|연습문제|[행렬의 곱셈][link_level_2_045]|[matrix_multiplication][link_level_2_045_source]|
-|046|연습문제|[JadenCase 문자열 만들기][link_level_2_046]|[creating_a_jadencase_string][link_level_2_046_source]|
-|047|연습문제|[N개의 최소공배수][link_level_2_047]|[n_least_common_multiples][link_level_2_047_source]|
-|048|2017 팁스타운|[짝지어 제거하기][link_level_2_048]|[pair_and_remove][link_level_2_048_source]|
-|049|2017 팁스타운|[예상 대진표][link_level_2_049]|[expected_draws][link_level_2_049_source]|
-|050|2018 KAKAO BLIND RECRUITMENT|[(1차) 뉴스 클러스터링][link_level_2_050]|[news_clustering][link_level_2_050_source]|
-|051|2018 KAKAO BLIND RECRUITMENT|[(1차) 프렌즈4블록][link_level_2_051]|[friends_4_block][link_level_2_051_source]|
-|052|2018 KAKAO BLIND RECRUITMENT|[(1차) 캐시][link_level_2_052]|[cash][link_level_2_052_source]|
-|053|2019 KAKAO BLIND RECRUITMENT|[오픈채팅방][link_level_2_053]|[open_chat_room][link_level_2_053_source]|
-|054|2019 KAKAO BLIND RECRUITMENT|[후보키][link_level_2_054]|[candidate_key][link_level_2_054_source]|
-|055|2018 KAKAO BLIND RECRUITMENT|[(3차) 방금그곡][link_level_2_055]|[just_that_song][link_level_2_055_source]|
-|056|2018 KAKAO BLIND RECRUITMENT|[(3차) 압축][link_level_2_056]|[compression][link_level_2_056_source]|
-|057|2018 KAKAO BLIND RECRUITMENT|[(3차) 파일명 정렬][link_level_2_057]|[sort_file_names][link_level_2_057_source]|
-|058|2018 KAKAO BLIND RECRUITMENT|[(3차) n진수 게임][link_level_2_058]|[n_decimal_game][link_level_2_058_source]|
+|001|스택/큐|[기능개발][link_level_2_001]|[_function_development][link_level_2_001_source]|
+|002|2017 카카오코드 본선|[단체사진 찍기][link_level_2_002]|[_take_a_group_photo][link_level_2_002_source]|
+|003|2017 팁스타운|[짝지어 제거하기][link_level_2_003]|[_matching_and_removing][link_level_2_003_source]|
+|004|Summer/Winter Coding(2019)|[멀쩡한 사각형][link_level_2_004]|[_fine_square][link_level_2_004_source]|
+|005|깊이/너비 우선 탐색(DFS/BFS)|[타겟 넘버][link_level_2_005]|[_target_number][link_level_2_005_source]|
+|006|힙(Heap)|[더 맵게][link_level_2_006]|[_more_spicy][link_level_2_006_source]|
+|007|연습문제|[124 나라의 숫자][link_level_2_007]|[_number_of_124_countries][link_level_2_007_source]|
+|008|2020 KAKAO BLIND RECRUITMENT|[문자열 압축][link_level_2_008]|[_string_compression][link_level_2_008_source]|
+|009|2019 KAKAO BLIND RECRUITMENT|[오픈채팅방][link_level_2_009]|[_open_chat_room][link_level_2_009_source]|
+|010|2017 카카오코드 예선|[카카오프렌즈 컬러링북][link_level_2_010]|[_kakao_friends_coloring_book][link_level_2_010_source]|
+|011|해시|[전화번호 목록][link_level_2_011]|[_phone_number_list][link_level_2_011_source]|
+|012|완전탐색|[소수 찾기][link_level_2_012]|[_find_prime_numbers][link_level_2_012_source]|
+|013|2020 카카오 인턴십|[수식 최대화][link_level_2_013]|[_maximize_formula][link_level_2_013_source]|
+|014|정렬|[가장 큰 수][link_level_2_014]|[_largest_number][link_level_2_014_source]|
+|015|스택/큐|[프린터][link_level_2_015]|[_printer][link_level_2_015_source]|
+|016|2017 팁스타운|[예상 대진표][link_level_2_016]|[_expected_draw][link_level_2_016_source]|
+|017|2018 KAKAO BLIND RECRUITMENT|[[1차] 뉴스 클러스터링][link_level_2_017]|[_(1st)_news_clustering][link_level_2_017_source]|
+|018|탐욕법(Greedy)|[조이스틱][link_level_2_018]|[_joystick][link_level_2_018_source]|
+|019|2020 KAKAO BLIND RECRUITMENT|[괄호 변환][link_level_2_019]|[_parenthesis_conversion][link_level_2_019_source]|
+|020|2019 카카오 개발자 겨울 인턴십|[튜플][link_level_2_020]|[_tuple][link_level_2_020_source]|
+|021|스택/큐|[다리를 지나는 트럭][link_level_2_021]|[_truck_passing_the_bridge][link_level_2_021_source]|
+|022|정렬|[H-Index][link_level_2_022]|[_h-index][link_level_2_022_source]|
+|023|해시|[위장][link_level_2_023]|[_camouflage][link_level_2_023_source]|
+|024|탐욕법(Greedy)|[큰 수 만들기][link_level_2_024]|[_making_a_big_number][link_level_2_024_source]|
+|025|2019 KAKAO BLIND RECRUITMENT|[후보키][link_level_2_025]|[_candidate_key][link_level_2_025_source]|
+|026|완전탐색|[카펫][link_level_2_026]|[_carpet][link_level_2_026_source]|
+|027|월간 코드 챌린지 시즌1|[삼각 달팽이][link_level_2_027]|[_triangular_snail][link_level_2_027_source]|
+|028|탐욕법(Greedy)|[구명보트][link_level_2_028]|[_lifeboat][link_level_2_028_source]|
+|029|2018 KAKAO BLIND RECRUITMENT|[[1차] 프렌즈4블록][link_level_2_029]|[_friends_4_block][link_level_2_029_source]|
+|030|스택/큐|[주식가격][link_level_2_030]|[_stock_price][link_level_2_030_source]|
+|031|Summer/Winter Coding(~2018)|[영어 끝말잇기][link_level_2_031]|[_english_ending][link_level_2_031_source]|
+|032|Summer/Winter Coding(~2018)|[점프와 순간 이동][link_level_2_032]|[_jump_and_teleport][link_level_2_032_source]|
+|033|월간 코드 챌린지 시즌1|[이진 변환 반복하기][link_level_2_033]|[_iterating_through_binary_transformation][link_level_2_033_source]|
+|034|2018 KAKAO BLIND RECRUITMENT|[[1차] 캐시][link_level_2_034]|[_cache][link_level_2_034_source]|
+|035|월간 코드 챌린지 시즌1|[쿼드압축 후 개수 세기][link_level_2_035]|[_counting_after_quad_compression][link_level_2_035_source]|
+|036|Summer/Winter Coding(~2018)|[스킬트리][link_level_2_036]|[_skill_tree][link_level_2_036_source]|
+|037|연습문제|[가장 큰 정사각형 찾기][link_level_2_037]|[_find_the_largest_square][link_level_2_037_source]|
+|038|2018 KAKAO BLIND RECRUITMENT|[[3차] 방금그곡][link_level_2_038]|[_just_that_song][link_level_2_038_source]|
+|039|2018 KAKAO BLIND RECRUITMENT|[[3차] 압축][link_level_2_039]|[_compression][link_level_2_039_source]|
+|040|2018 KAKAO BLIND RECRUITMENT|[[3차] 파일명 정렬][link_level_2_040]|[_file_name_sorting][link_level_2_040_source]|
+|041|연습문제|[올바른 괄호][link_level_2_041]|[_correct_parenthesis][link_level_2_041_source]|
+|042|2018 KAKAO BLIND RECRUITMENT|[[3차] n진수 게임][link_level_2_042]|[_n-number_game][link_level_2_042_source]|
+|043|연습문제|[다음 큰 숫자][link_level_2_043]|[_next_big_number][link_level_2_043_source]|
+|044|연습문제|[땅따먹기][link_level_2_044]|[_ground_picking][link_level_2_044_source]|
+|045|연습문제|[숫자의 표현][link_level_2_045]|[_representation_of_numbers][link_level_2_045_source]|
+|046|연습문제|[최댓값과 최솟값][link_level_2_046]|[_maximum_and_minimum_values][link_level_2_046_source]|
+|047|연습문제|[최솟값 만들기][link_level_2_047]|[_make_the_minimum][link_level_2_047_source]|
+|048|연습문제|[피보나치 수][link_level_2_048]|[_fibonacci_number][link_level_2_048_source]|
+|049|연습문제|[행렬의 곱셈][link_level_2_049]|[_matrix_multiplication][link_level_2_049_source]|
+|050|연습문제|[JadenCase 문자열 만들기][link_level_2_050]|[_create_a_jadencase_string][link_level_2_050_source]|
+|051|연습문제|[N개의 최소공배수][link_level_2_051]|[_n_least_common_multiples][link_level_2_051_source]|
+
+
 
 
 #### level 3
