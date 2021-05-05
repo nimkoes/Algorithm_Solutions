@@ -124,7 +124,7 @@
 |039|2018 KAKAO BLIND RECRUITMENT|[(3차) 압축][link_level_2_039]|[_compression][link_level_2_039_source]|
 |040|2018 KAKAO BLIND RECRUITMENT|[(3차) 파일명 정렬][link_level_2_040]|[_file_name_sorting][link_level_2_040_source]|
 |041|연습문제|[올바른 괄호][link_level_2_041]|[_correct_parenthesis][link_level_2_041_source]|
-|042|2018 KAKAO BLIND RECRUITMENT|[(3차) n진수 게임][link_level_2_042]|[_n-number_game][link_level_2_042_source]|
+|042|2018 KAKAO BLIND RECRUITMENT|[(3차) n진수 게임][link_level_2_042]|[_base_n_game][link_level_2_042_source]|
 |043|연습문제|[다음 큰 숫자][link_level_2_043]|[_next_big_number][link_level_2_043_source]|
 |044|연습문제|[땅따먹기][link_level_2_044]|[_ground_picking][link_level_2_044_source]|
 |045|연습문제|[숫자의 표현][link_level_2_045]|[_representation_of_numbers][link_level_2_045_source]|
@@ -132,7 +132,7 @@
 |047|연습문제|[최솟값 만들기][link_level_2_047]|[_make_the_minimum][link_level_2_047_source]|
 |048|연습문제|[피보나치 수][link_level_2_048]|[_fibonacci_number][link_level_2_048_source]|
 |049|연습문제|[행렬의 곱셈][link_level_2_049]|[_matrix_multiplication][link_level_2_049_source]|
-|050|연습문제|[JadenCase 문자열 만들기][link_level_2_050]|[_create_a_jadencase_string][link_level_2_050_source]|
+|050|연습문제|[JadenCase 문자열 만들기][link_level_2_050]|[_make_a_jadencase_string][link_level_2_050_source]|
 |051|연습문제|[N개의 최소공배수][link_level_2_051]|[_n_least_common_multiples][link_level_2_051_source]|
 
 
@@ -326,20 +326,20 @@
 [link_level_2_032_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_jump_and_teleport.java
 [link_level_2_033_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_iterating_through_binary_transformation.java
 [link_level_2_034_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_cache.java
-[link_level_2_035_source]:#
-[link_level_2_036_source]:#
-[link_level_2_037_source]:#
-[link_level_2_038_source]:#
-[link_level_2_039_source]:#
-[link_level_2_040_source]:#
-[link_level_2_041_source]:#
-[link_level_2_042_source]:#
-[link_level_2_043_source]:#
-[link_level_2_044_source]:#
-[link_level_2_045_source]:#
-[link_level_2_046_source]:#
-[link_level_2_047_source]:#
-[link_level_2_048_source]:#
-[link_level_2_049_source]:#
-[link_level_2_050_source]:#
-[link_level_2_051_source]:#
+[link_level_2_035_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_counting_after_quad_compression.java
+[link_level_2_036_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_skill_tree.java
+[link_level_2_037_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_find_the_largest_square.java
+[link_level_2_038_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_just_that_song.java
+[link_level_2_039_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_compression.java
+[link_level_2_040_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_file_name_sorting.java
+[link_level_2_041_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_correct_parenthesis.java
+[link_level_2_042_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_base_n_game.java
+[link_level_2_043_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_next_big_number.java
+[link_level_2_044_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_ground_picking.java
+[link_level_2_045_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_representation_of_numbers.java
+[link_level_2_046_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_maximum_and_minimum_values.java
+[link_level_2_047_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_make_the_minimum.java
+[link_level_2_048_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_fibonacci_number.java
+[link_level_2_049_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_matrix_multiplication.java
+[link_level_2_050_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_make_a_jadencase_string.java
+[link_level_2_051_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_n_least_common_multiples.java
