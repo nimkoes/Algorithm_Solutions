@@ -1,7 +1,7 @@
   
 # programmers_code
   
-### 프로그래머스 문제 풀이 코드
+## 프로그래머스 문제 풀이 코드
   
   
 - **레벨 단위**로 패키지 생성  
@@ -27,7 +27,9 @@
 　  
 　  
   
-#### level 1
+### level 1  
+---
+  
 |번호|분류|문제이름|클래스이름|
 |:---:|---|---|---|
 |001|2019 카카오 개발자 겨울 인턴십|[크레인 인형뽑기 게임][link_level_1_001]|[_crane_game][link_level_1_001_source]|
@@ -78,9 +80,13 @@
 |046|2018 KAKAO BLIND RECRUITMENT|[(1차) 비밀지도][link_level_1_046]|[_secret_map][link_level_1_046_source]|
 |047|2019 KAKAO BLIND RECRUITMENT|[실패율][link_level_1_047]|[_failure_rate][link_level_1_047_source]|
 |048|2018 KAKAO BLIND RECRUITMENT|[(1차) 다트 게임][link_level_1_048]|[_darts_game][link_level_1_048_source]|
-
-
-#### level 2
+  
+　  
+　  
+  
+### level 2  
+---
+  
 |번호|분류|문제이름|클래스이름|
 |:---:|---|---|---|
 |001|스택/큐|[기능개발][link_level_2_001]|[_function_development][link_level_2_001_source]|
