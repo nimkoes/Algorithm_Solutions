@@ -359,7 +359,7 @@
 [link_level_2_051_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_n_least_common_multiples.java
 
 
-[link_level_3_001]:#
+[link_level_3_001]:https://xxxelppa.tistory.com/262
 
 
 [link_level_3_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_network.java
