@@ -12,44 +12,43 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 @DisplayName("문자열 내 p와 y의 개수")
 class _the_number_of_p_and_y_in_the_string_test {
-    
+
     @Builder
     @Getter
     static class TestCase {
         String s;
-        
+
         boolean expected;
     }
-    
+
     _the_number_of_p_and_y_in_the_string solution;
-    ArrayList<TestCase> testCase;
-    
+
     @BeforeEach
     void setUp() {
         solution = new _the_number_of_p_and_y_in_the_string();
-        testCase = new ArrayList<>();
-        
-        testCase.add(
-                new TestCase.TestCaseBuilder()
-                        .s("pPoooyY")
-                        .expected(true)
-                        .build()
-        );
-        
-        testCase.add(
-                new TestCase.TestCaseBuilder()
-                        .s("Pyy")
-                        .expected(false)
-                        .build()
-        );
     }
-    
+
     @Test
-    @DisplayName("입출력 예 테스트")
-    void solution() {
-        for (TestCase aCase : testCase) {
-            assertThat(solution.solution(aCase.getS()))
-                    .isEqualTo(aCase.isExpected());
-        }
+    @DisplayName("입출력 예 테스트 1")
+    void test_01() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .s("pPoooyY")
+                .expected(true)
+                .build();
+
+        assertThat(solution.solution(testCase.getS()))
+                .isEqualTo(testCase.isExpected());
+    }
+
+    @Test
+    @DisplayName("입출력 예 테스트 2")
+    void test_02() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .s("Pyy")
+                .expected(false)
+                .build();
+
+        assertThat(solution.solution(testCase.getS()))
+                .isEqualTo(testCase.isExpected());
     }
 }

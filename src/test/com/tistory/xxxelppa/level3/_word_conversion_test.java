@@ -6,8 +6,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
-
 import static org.assertj.core.api.Assertions.assertThat;
 
 @DisplayName("단어 변환")
@@ -24,39 +22,37 @@ class _word_conversion_test {
     }
 
     _word_conversion solution;
-    ArrayList<TestCase> testCase;
-
 
     @BeforeEach
     void setUp() {
-        testCase = new ArrayList<>();
-
-        testCase.add(
-                new TestCase.TestCaseBuilder()
-                        .begin("hit")
-                        .target("cog")
-                        .words(new String[]{"hot", "dot", "dog", "lot", "log", "cog"})
-                        .expected(4)
-                        .build()
-        );
-
-        testCase.add(
-                new TestCase.TestCaseBuilder()
-                        .begin("hit")
-                        .target("cog")
-                        .words(new String[]{"hot", "dot", "dog", "lot", "log"})
-                        .expected(0)
-                        .build()
-        );
+        solution = new _word_conversion();
     }
 
     @Test
-    @DisplayName("입출력 예 테스트")
-    void name() {
-        for (TestCase aCase : testCase) {
-            solution = new _word_conversion();
-            assertThat(solution.solution(aCase.getBegin(), aCase.getTarget(), aCase.getWords()))
-                    .isEqualTo(aCase.getExpected());
-        }
+    @DisplayName("입출력 예 테스트 1")
+    void test_01() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .begin("hit")
+                .target("cog")
+                .words(new String[]{"hot", "dot", "dog", "lot", "log", "cog"})
+                .expected(4)
+                .build();
+
+        assertThat(solution.solution(testCase.getBegin(), testCase.getTarget(), testCase.getWords()))
+                .isEqualTo(testCase.getExpected());
+    }
+
+    @Test
+    @DisplayName("입출력 예 테스트 2")
+    void test_02() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .begin("hit")
+                .target("cog")
+                .words(new String[]{"hot", "dot", "dog", "lot", "log"})
+                .expected(0)
+                .build();
+
+        assertThat(solution.solution(testCase.getBegin(), testCase.getTarget(), testCase.getWords()))
+                .isEqualTo(testCase.getExpected());
     }
 }
