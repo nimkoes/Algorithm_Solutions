@@ -150,7 +150,8 @@
 |번호|분류|문제이름|클래스이름|
 |:---:|---|---|---|
 |001|깊이/너비 우선 탐색(DFS/BFS)|[네트워크][link_level_3_001]|[_network][link_level_3_001_source]|
-|002|깊이/너비 우선 탐색(DFS/BFS)|[단어 변환][link_level_3_002]|[_network][link_level_3_002_source]|
+|002|깊이/너비 우선 탐색(DFS/BFS)|[단어 변환][link_level_3_002]|[_word_conversion][link_level_3_002_source]|
+|003|연습문제|[2 x n 타일링][link_level_3_003]|[_2n_tiling][link_level_3_003_source]|
 
 
 
@@ -362,10 +363,12 @@
 
 [link_level_3_001]:https://xxxelppa.tistory.com/262
 [link_level_3_002]:https://xxxelppa.tistory.com/266
+[link_level_3_003]:https://xxxelppa.tistory.com/268
 
 
 
 
 [link_level_3_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_network.java
 [link_level_3_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_word_conversion.java
+[link_level_3_003_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_2n_tiling.java
 
