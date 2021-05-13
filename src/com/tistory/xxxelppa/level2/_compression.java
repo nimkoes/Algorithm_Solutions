@@ -4,36 +4,36 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class _compression {
-    static HashMap<String, Integer> map = new HashMap<>();
-    static ArrayList<Integer> list = new ArrayList<>();
-    static char[] arr;
-    static int num = 1;
-    
+    HashMap<String, Integer> map = new HashMap<>();
+    ArrayList<Integer> list = new ArrayList<>();
+    char[] arr;
+    int num = 1;
+
     public int[] solution(String msg) {
-        
+
         for (int i = 0; i < 27; i++) {
             map.put(String.valueOf((char) (65 + i)), i + 1);
         }
         arr = msg.toCharArray();
-    
+
         do {
             String tmp;
             if (num == arr.length) tmp = "" + arr[num - 1];
             else tmp = "" + arr[num - 1] + arr[num];
-        
+
             encoding(tmp);
         } while (num <= arr.length);
-        
+
         int[] answer = new int[list.size()];
         int size = 0;
         for (int i : list) {
             answer[size++] = i;
         }
-        
+
         return answer;
     }
-    
-    static void encoding(String tmp) {
+
+    void encoding(String tmp) {
         if (map.containsKey(tmp) && num < arr.length - 1) {
             encoding(tmp + arr[++num]);
         } else if (map.containsKey(tmp)) {
