@@ -10,6 +10,7 @@ import java.util.ArrayList;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+@DisplayName("네트워크")
 class _network_test {
 
     @Builder

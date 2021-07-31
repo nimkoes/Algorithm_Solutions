@@ -37,5 +37,4 @@ class _2n_tiling_test {
         assertThat(solution.solution(testCase.getN()))
                 .isEqualTo(testCase.getExpected());
     }
-
 }

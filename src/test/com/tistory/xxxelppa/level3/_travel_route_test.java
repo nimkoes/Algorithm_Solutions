@@ -52,5 +52,4 @@ class _travel_route_test {
                     .isEqualTo(aCase.getExpected());
         }
     }
-
 }
