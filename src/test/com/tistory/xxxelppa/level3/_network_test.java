@@ -22,37 +22,35 @@ class _network_test {
     }
 
     _network solution;
-    ArrayList<TestCase> testCase;
-
 
     @BeforeEach
     void setUp() {
         solution = new _network();
-        testCase = new ArrayList<>();
-
-        testCase.add(
-                new TestCase.TestCaseBuilder()
-                        .n(3)
-                        .computers(new int[][]{{1, 1, 0}, {1, 1, 0}, {0, 0, 1}})
-                        .expected(2)
-                        .build()
-        );
-
-        testCase.add(
-                new TestCase.TestCaseBuilder()
-                        .n(3)
-                        .computers(new int[][]{{1, 1, 0}, {1, 1, 1}, {0, 1, 1}})
-                        .expected(1)
-                        .build()
-        );
     }
 
     @Test
-    @DisplayName("입출력 예 테스트")
-    void name() {
-        for (TestCase aCase : testCase) {
-            assertThat(solution.solution(aCase.getN(), aCase.getComputers()))
-                    .isEqualTo(aCase.getExpected());
-        }
+    @DisplayName("입출력 예 테스트 1")
+    void test_01() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .n(3)
+                .computers(new int[][]{{1, 1, 0}, {1, 1, 0}, {0, 0, 1}})
+                .expected(2)
+                .build();
+
+        assertThat(solution.solution(testCase.getN(), testCase.getComputers()))
+                .isEqualTo(testCase.getExpected());
+    }
+
+    @Test
+    @DisplayName("입출력 예 테스트 2")
+    void test_02() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .n(3)
+                .computers(new int[][]{{1, 1, 0}, {1, 1, 1}, {0, 1, 1}})
+                .expected(1)
+                .build();
+
+        assertThat(solution.solution(testCase.getN(), testCase.getComputers()))
+                .isEqualTo(testCase.getExpected());
     }
 }
