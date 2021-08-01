@@ -152,7 +152,8 @@
 |001|깊이/너비 우선 탐색(DFS/BFS)|[네트워크][link_level_3_001]|[_network][link_level_3_001_source]|
 |002|깊이/너비 우선 탐색(DFS/BFS)|[단어 변환][link_level_3_002]|[_word_conversion][link_level_3_002_source]|
 |003|연습문제|[2 x n 타일링][link_level_3_003]|[_2n_tiling][link_level_3_003_source]|
-|004|해시|[베스트앨범][link_level_3_004]|[_best_album][link_level_3_004_source]|
+|004|깊이/너비 우선 탐색(DFS/BFS)|[여행경로][link_level_3_004]|[_travel_route][link_level_3_004_source]|
+|005|해시|[베스트앨범][link_level_3_005]|[_best_album][link_level_3_005_source]|
 
 
 
@@ -365,10 +366,12 @@
 [link_level_3_001]:https://xxxelppa.tistory.com/262
 [link_level_3_002]:https://xxxelppa.tistory.com/266
 [link_level_3_003]:https://xxxelppa.tistory.com/268
-[link_level_3_004]:https://xxxelppa.tistory.com/335
+[link_level_3_004]:https://xxxelppa.tistory.com/298
+[link_level_3_005]:https://xxxelppa.tistory.com/335
 
 [link_level_3_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_network.java
 [link_level_3_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_word_conversion.java
 [link_level_3_003_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_2n_tiling.java
-[link_level_3_004_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_best_album.java
+[link_level_3_004_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_travel_route.java
+[link_level_3_005_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_best_album.java
 
