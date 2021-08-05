@@ -154,7 +154,16 @@
 |003|연습문제|[2 x n 타일링][link_level_3_003]|[_2n_tiling][link_level_3_003_source]|
 |004|깊이/너비 우선 탐색(DFS/BFS)|[여행경로][link_level_3_004]|[_travel_route][link_level_3_004_source]|
 |005|해시|[베스트앨범][link_level_3_005]|[_best_album][link_level_3_005_source]|
-
+  
+　  
+　  
+  
+#### weekly challenge
+---
+  
+|구분|문제이름|
+|---|---|
+|[1주차][link_wc_001]|[부족한 금액 계산하기][link_wc_001_source]|
 
 
 
@@ -374,4 +383,9 @@
 [link_level_3_003_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_2n_tiling.java
 [link_level_3_004_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_travel_route.java
 [link_level_3_005_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level3/_best_album.java
+
+
+[link_wc_001]:https://xxxelppa.tistory.com/336
+
+[link_wc_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/weekly_challenge/week_001.java
 
