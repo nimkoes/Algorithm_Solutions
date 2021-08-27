@@ -10,7 +10,7 @@
 - **클래스명은 구글 번역기 사용** <sub>문제 풀이를 추가하면서 클래스 이름을 변경할 예정입니다.</sub>
   
 　  
-![programmers_skill_level](https://github.com/nimkoes/programmers_code/programmers_skill_level.PNG?raw=true "programmers_skill_level")
+![programmers_skill_level](https://github.com/nimkoes/programmers_code/blob/master/programmers_skill_level.PNG"programmers_skill_level")
 　  
   
 - '**문제이름**'을 클릭하면 블로그 게시물로 이동
