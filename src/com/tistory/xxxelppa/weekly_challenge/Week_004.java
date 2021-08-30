@@ -3,7 +3,7 @@ package com.tistory.xxxelppa.weekly_challenge;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class Week_003 {
+public class Week_004 {
 
     Integer max = Integer.MIN_VALUE;
 

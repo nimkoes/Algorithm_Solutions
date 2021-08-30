@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @DisplayName("Week 003")
-class Week_003_test {
+class Week_004_test {
 
     @Builder
     @Getter
@@ -21,11 +21,11 @@ class Week_003_test {
         String expected;
     }
 
-    Week_003 solution;
+    Week_004 solution;
 
     @BeforeEach
     void setUp() {
-        solution = new Week_003();
+        solution = new Week_004();
     }
 
     @Test
