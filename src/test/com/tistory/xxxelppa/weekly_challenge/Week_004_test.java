@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("Week 003")
+@DisplayName("Week 004")
 class Week_004_test {
 
     @Builder
