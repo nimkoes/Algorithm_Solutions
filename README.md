@@ -167,6 +167,7 @@
 |[1주차][link_wc_001]|[부족한 금액 계산하기][link_wc_001_source]|
 |[2주차][link_wc_002]|[상호 평가][link_wc_002_source]|
 |[4주차][link_wc_004]|[직업군 추천하기][link_wc_004_source]|
+|[5주차][link_wc_005]|[모음 사전][link_wc_005_source]|
 
 
 
@@ -395,4 +396,5 @@
 [link_wc_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/weekly_challenge/Week_001.java
 [link_wc_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/weekly_challenge/Week_002.java
 [link_wc_004_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/weekly_challenge/Week_004.java
+[link_wc_005_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/weekly_challenge/Week_005.java
 
