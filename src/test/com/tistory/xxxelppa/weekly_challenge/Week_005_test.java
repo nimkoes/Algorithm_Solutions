@@ -73,5 +73,17 @@ class Week_005_test {
         assertThat(solution.solution(testCase.getWord()))
                 .isEqualTo(testCase.getExpected());
     }
-    
+
+    @Test
+    @DisplayName("입출력 예 테스트 5")
+    void test_05() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .word("EEEEE")
+                .expected(980)
+                .build();
+
+        assertThat(solution.solution(testCase.getWord()))
+                .isEqualTo(testCase.getExpected());
+    }
+
 }
