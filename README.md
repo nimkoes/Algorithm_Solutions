@@ -81,6 +81,7 @@
 |046|2018 KAKAO BLIND RECRUITMENT|[(1차) 비밀지도][link_level_1_046]|[_secret_map][link_level_1_046_source]|
 |047|2019 KAKAO BLIND RECRUITMENT|[실패율][link_level_1_047]|[_failure_rate][link_level_1_047_source]|
 |048|2018 KAKAO BLIND RECRUITMENT|[(1차) 다트 게임][link_level_1_048]|[_darts_game][link_level_1_048_source]|
+|049|월간 코드 챌린지 시즌3|[없는 숫자 더하기][link_level_1_049]|[_add_missing_numbers][link_level_1_049_source]|
   
 　  
 　  
@@ -220,6 +221,7 @@
 [link_level_1_046]:https://xxxelppa.tistory.com/182
 [link_level_1_047]:https://xxxelppa.tistory.com/183
 [link_level_1_048]:https://xxxelppa.tistory.com/184
+[link_level_1_049]:https://xxxelppa.tistory.com/343
 
 [link_level_1_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_crane_game.java
 [link_level_1_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_a_player_who_could_not_finish.java
@@ -269,6 +271,7 @@
 [link_level_1_046_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_secret_map.java
 [link_level_1_047_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_failure_rate.java
 [link_level_1_048_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_darts_game.java
+[link_level_1_049_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_add_missing_numbers.java
 
 
 [link_level_2_001]:https://xxxelppa.tistory.com/208
