@@ -83,6 +83,7 @@
 |048|2018 KAKAO BLIND RECRUITMENT|[(1차) 다트 게임][link_level_1_048]|[_darts_game][link_level_1_048_source]|
 |049|월간 코드 챌린지 시즌3|[없는 숫자 더하기][link_level_1_049]|[_add_missing_numbers][link_level_1_049_source]|
 |050|월간 코드 챌린지 시즌3|[나머지가 1이 되는 수 찾기][link_level_1_050]|[_find_number_remainder_is_1][link_level_1_050_source]|
+|051|위클리 챌린지|[최소직사각형][link_level_1_051]|[_minimum_rectangle][link_level_1_051_source]|
   
 　  
 　  
@@ -224,6 +225,7 @@
 [link_level_1_048]:https://xxxelppa.tistory.com/184
 [link_level_1_049]:https://xxxelppa.tistory.com/343
 [link_level_1_050]:https://xxxelppa.tistory.com/344
+[link_level_1_051]:https://xxxelppa.tistory.com/345
 
 [link_level_1_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_crane_game.java
 [link_level_1_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_a_player_who_could_not_finish.java
@@ -275,6 +277,7 @@
 [link_level_1_048_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_darts_game.java
 [link_level_1_049_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_add_missing_numbers.java
 [link_level_1_050_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_find_number_remainder_is_1.java
+[link_level_1_051_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level1/_minimum_rectangle.java
 
 
 [link_level_2_001]:https://xxxelppa.tistory.com/208
