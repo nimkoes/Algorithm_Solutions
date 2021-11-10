@@ -144,6 +144,7 @@
 |049|연습문제|[행렬의 곱셈][link_level_2_049]|[_matrix_multiplication][link_level_2_049_source]|
 |050|연습문제|[JadenCase 문자열 만들기][link_level_2_050]|[_make_a_jadencase_string][link_level_2_050_source]|
 |051|연습문제|[N개의 최소공배수][link_level_2_051]|[_n_least_common_multiples][link_level_2_051_source]|
+|052|Summer/Winter Coding(~2018)|[방문 길이][link_level_2_052]|[_visit_length][link_level_2_052_source]|
   
 　  
 　  
@@ -331,6 +332,7 @@
 [link_level_2_049]:https://xxxelppa.tistory.com/257
 [link_level_2_050]:https://xxxelppa.tistory.com/258
 [link_level_2_051]:https://xxxelppa.tistory.com/259
+[link_level_2_052]:https://xxxelppa.tistory.com/346
 
 [link_level_2_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_function_development.java
 [link_level_2_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_take_a_group_photo.java
@@ -383,6 +385,7 @@
 [link_level_2_049_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_matrix_multiplication.java
 [link_level_2_050_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_make_a_jadencase_string.java
 [link_level_2_051_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_n_least_common_multiples.java
+[link_level_2_052_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level2/_visit_length.java
 
 
 [link_level_3_001]:https://xxxelppa.tistory.com/262
