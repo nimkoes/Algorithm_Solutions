@@ -32,8 +32,9 @@
 ### level 0  
 ---
   
-|번호|분류|문제이름|클래스이름|
-|:---:|---|---|---|
+|번호| 분류       | 문제이름                       | 클래스이름                                  |
+|:---:|----------|----------------------------|----------------------------------------|
+|001| 코딩테스트 입문 | [옹알이(1)][link_level_0_001] | [_babbling_1][link_level_0_001_source] |
   
 　  
 　  
@@ -184,6 +185,10 @@
 |[5주차][link_wc_005]|[모음 사전][link_wc_005_source]|
 
 
+
+[link_level_1_001]:https://xxxelppa.tistory.com/
+
+[link_level_1_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/_babbling_1.java
 
 
 [link_level_1_001]:https://xxxelppa.tistory.com/137
