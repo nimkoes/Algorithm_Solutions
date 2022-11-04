@@ -186,7 +186,7 @@
 
 
 
-[link_level_0_001]:https://xxxelppa.tistory.com/
+[link_level_0_001]:https://xxxelppa.tistory.com/363
 
 [link_level_0_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/_babbling_1.java
 
