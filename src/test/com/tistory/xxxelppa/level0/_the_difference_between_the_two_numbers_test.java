@@ -8,32 +8,35 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("옹알이(1)")
-class _babbling_1_Test {
+@DisplayName("두 수의 차")
+class _the_difference_between_the_two_numbers_test {
 
     @Builder
     @Getter
     static class TestCase {
-        String[] babbling;
+        int num1;
+        int num2;
         int expected;
     }
 
-    _babbling_1 solution;
+    _the_difference_between_the_two_numbers solution;
+
 
     @BeforeEach
     void setUp() {
-        solution = new _babbling_1();
+        solution = new _the_difference_between_the_two_numbers();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .babbling(new String[]{"aya", "yee", "u", "maa", "wyeoo"})
-                .expected(1)
+                .num1(2)
+                .num2(3)
+                .expected(-1)
                 .build();
 
-        assertThat(solution.solution(testCase.getBabbling()))
+        assertThat(solution.solution(testCase.getNum1(), testCase.getNum2()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -41,11 +44,12 @@ class _babbling_1_Test {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .babbling(new String[]{"ayaye", "uuuma", "ye", "yemawoo", "ayaa"})
-                .expected(3)
+                .num1(100)
+                .num2(2)
+                .expected(98)
                 .build();
 
-        assertThat(solution.solution(testCase.getBabbling()))
+        assertThat(solution.solution(testCase.getNum1(), testCase.getNum2()))
                 .isEqualTo(testCase.getExpected());
     }
 }

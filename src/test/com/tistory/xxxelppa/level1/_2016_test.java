@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @DisplayName("2016년")
-class _2016_Test {
+class _2016_test {
 
     @Builder
     @Getter

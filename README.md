@@ -32,9 +32,11 @@
 ### level 0  
 ---
   
-|번호| 분류       | 문제이름                       | 클래스이름                                  |
-|:---:|----------|----------------------------|----------------------------------------|
-|001| 코딩테스트 입문 | [옹알이(1)][link_level_0_001] | [_babbling_1][link_level_0_001_source] |
+| 번호  | 분류       | 코드 링크                             |
+|:---:|----------|-----------------------------------|
+| 001 | 코딩테스트 입문 | [옹알이(1)][link_level_0_001_source] |
+| 002 | 코딩테스트 입문 | [두 수의 곱][link_level_0_002_source] |
+| 003 | 코딩테스트 입문 | [두 수의 차][link_level_0_003_source] |
   
 　  
 　  
@@ -186,9 +188,9 @@
 
 
 
-[link_level_0_001]:https://xxxelppa.tistory.com/363
-
 [link_level_0_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/_babbling_1.java
+[link_level_0_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/_product_of_two_numbers.java
+[link_level_0_003_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/_the_difference_between_the_two_numbers.java
 
 
 [link_level_1_001]:https://xxxelppa.tistory.com/137
