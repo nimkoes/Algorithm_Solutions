@@ -41,6 +41,10 @@
 | 005 | 코딩테스트 입문 | [두 수의 합][link_level_0_005_source]  |
 | 006 | 코딩테스트 입문 | [나머지 구하기][link_level_0_006_source] |
 | 007 | 코딩테스트 입문 | [숫자 비교하기][link_level_0_007_source] |
+| 008 | 코딩테스트 입문 | [나이 출력][link_level_0_008_source]   |
+| 009 | 코딩테스트 입문 | [각도기][link_level_0_009_source]     |
+| 010 | 코딩테스트 입문 | [짝수의 합][link_level_0_010_source]   |
+| 011 | 코딩테스트 입문 | [배열의 평균값][link_level_0_011_source] |
   
 　  
 　  
@@ -199,6 +203,10 @@
 [link_level_0_005_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_005.java
 [link_level_0_006_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_006.java
 [link_level_0_007_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_007.java
+[link_level_0_008_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_008.java
+[link_level_0_009_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_009.java
+[link_level_0_010_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_010.java
+[link_level_0_011_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_011.java
 
 
 [link_level_1_001]:https://xxxelppa.tistory.com/137
