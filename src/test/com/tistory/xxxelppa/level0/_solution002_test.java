@@ -8,32 +8,35 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("옹알이(1)")
-class _babbling_1_test {
+@DisplayName("두 수의 곱")
+class _solution002_test {
 
     @Builder
     @Getter
     static class TestCase {
-        String[] babbling;
+        int num1;
+        int num2;
         int expected;
     }
 
-    _babbling_1 solution;
+    Solution_002 solution;
+
 
     @BeforeEach
     void setUp() {
-        solution = new _babbling_1();
+        solution = new Solution_002();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .babbling(new String[]{"aya", "yee", "u", "maa", "wyeoo"})
-                .expected(1)
+                .num1(3)
+                .num2(4)
+                .expected(12)
                 .build();
 
-        assertThat(solution.solution(testCase.getBabbling()))
+        assertThat(solution.solution(testCase.getNum1(), testCase.getNum2()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -41,11 +44,12 @@ class _babbling_1_test {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .babbling(new String[]{"ayaye", "uuuma", "ye", "yemawoo", "ayaa"})
-                .expected(3)
+                .num1(27)
+                .num2(19)
+                .expected(513)
                 .build();
 
-        assertThat(solution.solution(testCase.getBabbling()))
+        assertThat(solution.solution(testCase.getNum1(), testCase.getNum2()))
                 .isEqualTo(testCase.getExpected());
     }
 }

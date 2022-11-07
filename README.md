@@ -188,9 +188,9 @@
 
 
 
-[link_level_0_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/_babbling_1.java
-[link_level_0_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/_product_of_two_numbers.java
-[link_level_0_003_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/_the_difference_between_the_two_numbers.java
+[link_level_0_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_001.java
+[link_level_0_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_002.java
+[link_level_0_003_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_003.java
 
 
 [link_level_1_001]:https://xxxelppa.tistory.com/137

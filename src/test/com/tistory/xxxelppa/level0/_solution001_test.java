@@ -8,35 +8,32 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("두 수의 곱")
-class _product_of_two_numbers_test {
+@DisplayName("옹알이(1)")
+class _solution001_test {
 
     @Builder
     @Getter
     static class TestCase {
-        int num1;
-        int num2;
+        String[] babbling;
         int expected;
     }
 
-    _product_of_two_numbers solution;
-
+    Solution_001 solution;
 
     @BeforeEach
     void setUp() {
-        solution = new _product_of_two_numbers();
+        solution = new Solution_001();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .num1(3)
-                .num2(4)
-                .expected(12)
+                .babbling(new String[]{"aya", "yee", "u", "maa", "wyeoo"})
+                .expected(1)
                 .build();
 
-        assertThat(solution.solution(testCase.getNum1(), testCase.getNum2()))
+        assertThat(solution.solution(testCase.getBabbling()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -44,12 +41,11 @@ class _product_of_two_numbers_test {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .num1(27)
-                .num2(19)
-                .expected(513)
+                .babbling(new String[]{"ayaye", "uuuma", "ye", "yemawoo", "ayaa"})
+                .expected(3)
                 .build();
 
-        assertThat(solution.solution(testCase.getNum1(), testCase.getNum2()))
+        assertThat(solution.solution(testCase.getBabbling()))
                 .isEqualTo(testCase.getExpected());
     }
 }

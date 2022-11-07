@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @DisplayName("두 수의 차")
-class _the_difference_between_the_two_numbers_test {
+class _solution003_test {
 
     @Builder
     @Getter
@@ -19,12 +19,12 @@ class _the_difference_between_the_two_numbers_test {
         int expected;
     }
 
-    _the_difference_between_the_two_numbers solution;
+    Solution_003 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new _the_difference_between_the_two_numbers();
+        solution = new Solution_003();
     }
 
     @Test
