@@ -32,8 +32,8 @@
 ### level 0  
 ---
   
-| 번호  | 분류       | 코드 링크                              |
-|:---:|----------|------------------------------------|
+| 번호 | 분류       | 코드 링크                              |
+|:--:|----------|------------------------------------|
 | 001 | 코딩테스트 입문 | [옹알이(1)][link_level_0_001_source]  |
 | 002 | 코딩테스트 입문 | [두 수의 곱][link_level_0_002_source]  |
 | 003 | 코딩테스트 입문 | [두 수의 차][link_level_0_003_source]  |
@@ -45,6 +45,11 @@
 | 009 | 코딩테스트 입문 | [각도기][link_level_0_009_source]     |
 | 010 | 코딩테스트 입문 | [짝수의 합][link_level_0_010_source]   |
 | 011 | 코딩테스트 입문 | [배열의 평균값][link_level_0_011_source] |
+| 012 | 코딩테스트 입문 | [양꼬치][link_level_0_012_source] |
+| 013 | 코딩테스트 입문 | [두 수의 나눗셈][link_level_0_013_source] |
+| 014 | 코딩테스트 입문 | [머쓱이보다 키 큰 사람][link_level_0_014_source] |
+| 015 | 코딩테스트 입문 | [짝수 홀수 개수][link_level_0_015_source] |
+| 016 | 코딩테스트 입문 | [중복된 숫자 개수][link_level_0_016_source] |
   
 　  
 　  
@@ -207,6 +212,11 @@
 [link_level_0_009_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_009.java
 [link_level_0_010_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_010.java
 [link_level_0_011_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_011.java
+[link_level_0_012_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_012.java
+[link_level_0_013_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_013.java
+[link_level_0_014_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_014.java
+[link_level_0_015_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_015.java
+[link_level_0_016_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_016.java
 
 
 [link_level_1_001]:https://xxxelppa.tistory.com/137
