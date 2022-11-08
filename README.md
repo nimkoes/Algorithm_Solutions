@@ -32,25 +32,26 @@
 ### level 0  
 ---
   
-| 번호 | 분류       | 코드 링크                              |
-|:--:|----------|------------------------------------|
-| 001 | 코딩테스트 입문 | [옹알이(1)][link_level_0_001_source]  |
-| 002 | 코딩테스트 입문 | [두 수의 곱][link_level_0_002_source]  |
-| 003 | 코딩테스트 입문 | [두 수의 차][link_level_0_003_source]  |
-| 004 | 코딩테스트 입문 | [몫 구하기][link_level_0_004_source]   |
-| 005 | 코딩테스트 입문 | [두 수의 합][link_level_0_005_source]  |
-| 006 | 코딩테스트 입문 | [나머지 구하기][link_level_0_006_source] |
-| 007 | 코딩테스트 입문 | [숫자 비교하기][link_level_0_007_source] |
-| 008 | 코딩테스트 입문 | [나이 출력][link_level_0_008_source]   |
-| 009 | 코딩테스트 입문 | [각도기][link_level_0_009_source]     |
-| 010 | 코딩테스트 입문 | [짝수의 합][link_level_0_010_source]   |
-| 011 | 코딩테스트 입문 | [배열의 평균값][link_level_0_011_source] |
-| 012 | 코딩테스트 입문 | [양꼬치][link_level_0_012_source] |
-| 013 | 코딩테스트 입문 | [두 수의 나눗셈][link_level_0_013_source] |
-| 014 | 코딩테스트 입문 | [머쓱이보다 키 큰 사람][link_level_0_014_source] |
-| 015 | 코딩테스트 입문 | [짝수 홀수 개수][link_level_0_015_source] |
-| 016 | 코딩테스트 입문 | [중복된 숫자 개수][link_level_0_016_source] |
-| 017 | 코딩테스트 입문 | [아이스 아메리카노][link_level_0_017_source] |
+| 번호  | 코드 링크                              |
+|:---:|------------------------------------|
+| 001 | [옹알이(1)][link_level_0_001_source]  |
+| 002 | [두 수의 곱][link_level_0_002_source]  |
+| 003 | [두 수의 차][link_level_0_003_source]  |
+| 004 | [몫 구하기][link_level_0_004_source]   |
+| 005 | [두 수의 합][link_level_0_005_source]  |
+| 006 | [나머지 구하기][link_level_0_006_source] |
+| 007 | [숫자 비교하기][link_level_0_007_source] |
+| 008 | [나이 출력][link_level_0_008_source]   |
+| 009 | [각도기][link_level_0_009_source]     |
+| 010 | [짝수의 합][link_level_0_010_source]   |
+| 011 | [배열의 평균값][link_level_0_011_source] |
+| 012 | [양꼬치][link_level_0_012_source] |
+| 013 | [두 수의 나눗셈][link_level_0_013_source] |
+| 014 | [머쓱이보다 키 큰 사람][link_level_0_014_source] |
+| 015 | [짝수 홀수 개수][link_level_0_015_source] |
+| 016 | [중복된 숫자 개수][link_level_0_016_source] |
+| 017 | [아이스 아메리카노][link_level_0_017_source] |
+| 018 | [피자 나눠 먹기 (1)][link_level_0_018_source] |
   
 　  
 　  
@@ -219,6 +220,7 @@
 [link_level_0_015_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_015.java
 [link_level_0_016_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_016.java
 [link_level_0_017_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_017.java
+[link_level_0_018_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_018.java
 
 
 [link_level_1_001]:https://xxxelppa.tistory.com/137
