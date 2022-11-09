@@ -62,6 +62,8 @@
 | 026 | [배열 자르기][link_level_0_026_source] |
 | 027 | [점의 위치 구하기][link_level_0_027_source] |
 | 028 | [특정 문자 제거하기][link_level_0_028_source] |
+| 029 | [삼각형의 완성조건 (1)][link_level_0_029_source] |
+| 030 | [옷가게 할인 받기][link_level_0_030_source] |
   
 　  
 　  
@@ -241,6 +243,78 @@
 [link_level_0_026_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_026.java
 [link_level_0_027_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_027.java
 [link_level_0_028_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_028.java
+[link_level_0_029_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_029.java
+[link_level_0_030_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_030.java
+[link_level_0_031_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_031.java
+[link_level_0_032_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_032.java
+[link_level_0_033_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_033.java
+[link_level_0_034_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_034.java
+[link_level_0_035_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_035.java
+[link_level_0_036_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_036.java
+[link_level_0_037_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_037.java
+[link_level_0_038_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_038.java
+[link_level_0_039_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_039.java
+[link_level_0_040_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_040.java
+[link_level_0_041_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_041.java
+[link_level_0_042_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_042.java
+[link_level_0_043_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_043.java
+[link_level_0_044_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_044.java
+[link_level_0_045_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_045.java
+[link_level_0_046_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_046.java
+[link_level_0_047_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_047.java
+[link_level_0_048_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_048.java
+[link_level_0_049_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_049.java
+[link_level_0_050_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_050.java
+[link_level_0_051_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_051.java
+[link_level_0_052_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_052.java
+[link_level_0_053_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_053.java
+[link_level_0_054_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_054.java
+[link_level_0_055_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_055.java
+[link_level_0_056_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_056.java
+[link_level_0_057_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_057.java
+[link_level_0_058_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_058.java
+[link_level_0_059_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_059.java
+[link_level_0_060_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_060.java
+[link_level_0_061_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_061.java
+[link_level_0_062_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_062.java
+[link_level_0_063_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_063.java
+[link_level_0_064_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_064.java
+[link_level_0_065_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_065.java
+[link_level_0_066_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_066.java
+[link_level_0_067_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_067.java
+[link_level_0_068_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_068.java
+[link_level_0_069_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_069.java
+[link_level_0_070_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_070.java
+[link_level_0_071_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_071.java
+[link_level_0_072_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_072.java
+[link_level_0_073_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_073.java
+[link_level_0_074_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_074.java
+[link_level_0_075_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_075.java
+[link_level_0_076_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_076.java
+[link_level_0_077_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_077.java
+[link_level_0_078_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_078.java
+[link_level_0_079_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_079.java
+[link_level_0_080_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_080.java
+[link_level_0_081_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_081.java
+[link_level_0_082_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_082.java
+[link_level_0_083_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_083.java
+[link_level_0_084_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_084.java
+[link_level_0_085_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_085.java
+[link_level_0_086_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_086.java
+[link_level_0_087_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_087.java
+[link_level_0_088_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_088.java
+[link_level_0_089_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_089.java
+[link_level_0_090_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_090.java
+[link_level_0_091_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_091.java
+[link_level_0_092_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_092.java
+[link_level_0_093_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_093.java
+[link_level_0_094_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_094.java
+[link_level_0_095_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_095.java
+[link_level_0_096_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_096.java
+[link_level_0_097_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_097.java
+[link_level_0_098_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_098.java
+[link_level_0_099_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_099.java
+[link_level_0_100_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/tistory/xxxelppa/level0/Solution_100.java
 
 
 [link_level_1_001]:https://xxxelppa.tistory.com/137
