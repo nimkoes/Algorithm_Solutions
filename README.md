@@ -64,6 +64,7 @@
 | 028 | [특정 문자 제거하기][link_level_0_028_source] |
 | 029 | [삼각형의 완성조건 (1)][link_level_0_029_source] |
 | 030 | [옷가게 할인 받기][link_level_0_030_source] |
+| 031 | [문자 반복 출력하기][link_level_0_031_source] |
   
 　  
 　  
