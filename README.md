@@ -75,6 +75,7 @@
 | 039 | [모음 제거][link_level_0_039_source] |
 | 040 | [숨어있는 숫자의 덧셈 (1)][link_level_0_040_source] |
 | 041 | [개미 군단][link_level_0_041_source] |
+| 042 | [문자열 정렬하기 (1)][link_level_0_042_source] |
   
 　  
 　  
