@@ -8,31 +8,33 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_043_test_ {
+@DisplayName("중앙값 구하기")
+class Solution_043_test {
 
     @Builder
     @Getter
     static class TestCase {
+        int[] array;
         int expected;
     }
 
-    Solution_043_ solution;
+    Solution_043 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_043_();
+        solution = new Solution_043();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .array(new int[]{1, 2, 7, 10, 11})
+                .expected(7)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getArray()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +42,11 @@ class Solution_043_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
+                .array(new int[]{9, -1, 0})
                 .expected(0)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getArray()))
                 .isEqualTo(testCase.getExpected());
     }
 }
