@@ -73,6 +73,7 @@
 | 037 | [순서쌍의 개수][link_level_0_037_source] |
 | 038 | [세균 증식][link_level_0_038_source] |
 | 039 | [모음 제거][link_level_0_039_source] |
+| 040 | [숨어있는 숫자의 덧셈 (1)][link_level_0_040_source] |
   
 　  
 　  
