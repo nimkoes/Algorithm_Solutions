@@ -69,6 +69,7 @@
 | 033 | [배열의 유사도][link_level_0_033_source] |
 | 034 | [제곱수 판별하기][link_level_0_034_source] |
 | 035 | [짝수는 싫어요][link_level_0_035_source] |
+| 036 | [자릿수 더하기][link_level_0_036_source] |
   
 　  
 　  
