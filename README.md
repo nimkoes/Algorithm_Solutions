@@ -65,6 +65,10 @@
 | 029 | [삼각형의 완성조건 (1)][link_level_0_029_source] |
 | 030 | [옷가게 할인 받기][link_level_0_030_source] |
 | 031 | [문자 반복 출력하기][link_level_0_031_source] |
+| 032 | [문자열안에 문자열][link_level_0_032_source] |
+| 033 | [배열의 유사도][link_level_0_033_source] |
+| 034 | [제곱수 판별하기][link_level_0_034_source] |
+| 035 | [짝수는 싫어요][link_level_0_035_source] |
   
 　  
 　  
