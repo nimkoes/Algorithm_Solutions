@@ -8,31 +8,33 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_041_test_ {
+@DisplayName("개미 군단")
+class Solution_041_test {
 
     @Builder
     @Getter
     static class TestCase {
+        int hp;
         int expected;
     }
 
-    Solution_041_ solution;
+    Solution_041 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_041_();
+        solution = new Solution_041();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .hp(23)
+                .expected(5)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getHp()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +42,23 @@ class Solution_041_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .hp(24)
+                .expected(6)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getHp()))
+                .isEqualTo(testCase.getExpected());
+    }
+
+    @Test
+    @DisplayName("입출력 예 테스트 3")
+    void test_03() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .hp(999)
+                .expected(201)
+                .build();
+
+        assertThat(solution.solution(testCase.getHp()))
                 .isEqualTo(testCase.getExpected());
     }
 }
