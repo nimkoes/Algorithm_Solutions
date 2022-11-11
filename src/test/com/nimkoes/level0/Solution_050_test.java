@@ -9,30 +9,32 @@ import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @DisplayName("")
-class Solution_050_test_ {
+class Solution_050_test {
 
     @Builder
     @Getter
     static class TestCase {
-        int expected;
+        String my_string;
+        String expected;
     }
 
-    Solution_050_ solution;
+    Solution_050 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_050_();
+        solution = new Solution_050();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .my_string("Bcad")
+                .expected("abcd")
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getMy_string()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +42,23 @@ class Solution_050_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .my_string("heLLo")
+                .expected("ehllo")
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getMy_string()))
+                .isEqualTo(testCase.getExpected());
+    }
+
+    @Test
+    @DisplayName("입출력 예 테스트 3")
+    void test_03() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .my_string("Python")
+                .expected("hnopty")
+                .build();
+
+        assertThat(solution.solution(testCase.getMy_string()))
                 .isEqualTo(testCase.getExpected());
     }
 }

@@ -8,31 +8,33 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_049_test_ {
+@DisplayName("가장 큰 수 찾기")
+class Solution_047_test {
 
     @Builder
     @Getter
     static class TestCase {
-        int expected;
+        int[] array;
+        int[] expected;
     }
 
-    Solution_049_ solution;
+    Solution_047 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_049_();
+        solution = new Solution_047();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .array(new int[]{1, 8, 3})
+                .expected(new int[]{8, 1})
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getArray()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +42,11 @@ class Solution_049_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .array(new int[]{9, 10, 11, 8})
+                .expected(new int[]{11, 2})
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getArray()))
                 .isEqualTo(testCase.getExpected());
     }
 }

@@ -78,6 +78,12 @@
 | 042 | [문자열 정렬하기 (1)][link_level_0_042_source] |
 | 043 | [중앙값 구하기][link_level_0_043_source] |
 | 044 | [가위 바위 보][link_level_0_044_source] |
+| 045 | [n의 배수 고르기][link_level_0_045_source] |
+| 046 | [직각삼각형 출력하기][link_level_0_046_source] |
+| 047 | [가장 큰 수 찾기][link_level_0_047_source] |
+| 048 | [대문자와 소문자][link_level_0_048_source] |
+| 049 | [약수 구하기][link_level_0_049_source] |
+| 050 | [문자열 정렬하기 (2)][link_level_0_050_source] |
   
 　  
 　  
