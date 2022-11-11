@@ -84,6 +84,7 @@
 | 048 | [대문자와 소문자][link_level_0_048_source] |
 | 049 | [약수 구하기][link_level_0_049_source] |
 | 050 | [문자열 정렬하기 (2)][link_level_0_050_source] |
+| 051 | [주사위의 개수][link_level_0_051_source] |
   
 　  
 　  
