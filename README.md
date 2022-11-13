@@ -98,6 +98,7 @@
 | 062 | [중복된 문자 제거][link_level_0_062_source] |
 | 063 | [A로 B 만들기][link_level_0_063_source] |
 | 064 | [팩토리얼][link_level_0_064_source] |
+| 065 | [2차원으로 만들기][link_level_0_065_source] |
   
 　  
 　  

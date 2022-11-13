@@ -8,31 +8,35 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_065_test_ {
+@DisplayName("2차원으로 만들기")
+class Solution_065_test {
 
     @Builder
     @Getter
     static class TestCase {
-        int expected;
+        int[] num_list;
+        int n;
+        int[][] expected;
     }
 
-    Solution_065_ solution;
+    Solution_065 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_065_();
+        solution = new Solution_065();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .num_list(new int[]{1, 2, 3, 4, 5, 6, 7, 8})
+                .n(2)
+                .expected(new int[][]{{1, 2}, {3, 4}, {5, 6}, {7, 8}})
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getNum_list(), testCase.getN()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +44,12 @@ class Solution_065_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .num_list(new int[]{100, 95, 2, 4, 5, 6, 18, 33, 948})
+                .n(3)
+                .expected(new int[][]{{100, 95, 2}, {4, 5, 6}, {18, 33, 948}})
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getNum_list(), testCase.getN()))
                 .isEqualTo(testCase.getExpected());
     }
 }
