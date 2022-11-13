@@ -102,6 +102,7 @@
 | 066 | [k의 개수][link_level_0_066_source] |
 | 067 | [7의 개수][link_level_0_067_source] |
 | 068 | [가까운 수][link_level_0_068_source] |
+| 069 | [한 번만 등장한 문자][link_level_0_069_source] |
   
 　  
 　  

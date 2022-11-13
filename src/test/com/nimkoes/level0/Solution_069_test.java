@@ -8,31 +8,33 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_069_test_ {
+@DisplayName("한 번만 등장한 문자")
+class Solution_069_test {
 
     @Builder
     @Getter
     static class TestCase {
-        int expected;
+        String s;
+        String expected;
     }
 
-    Solution_069_ solution;
+    Solution_069 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_069_();
+        solution = new Solution_069();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .s("abcabcadc")
+                .expected("d")
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getS()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +42,23 @@ class Solution_069_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .s("abdc")
+                .expected("abcd")
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getS()))
+                .isEqualTo(testCase.getExpected());
+    }
+
+    @Test
+    @DisplayName("입출력 예 테스트 3")
+    void test_03() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .s("hello")
+                .expected("eho")
+                .build();
+
+        assertThat(solution.solution(testCase.getS()))
                 .isEqualTo(testCase.getExpected());
     }
 }
