@@ -8,31 +8,35 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_068_test_ {
+@DisplayName("가까운 수")
+class Solution_068_test {
 
     @Builder
     @Getter
     static class TestCase {
+        int[] array;
+        int n;
         int expected;
     }
 
-    Solution_068_ solution;
+    Solution_068 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_068_();
+        solution = new Solution_068();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .array(new int[]{3, 10, 28})
+                .n(20)
+                .expected(28)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getArray(), testCase.getN()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +44,12 @@ class Solution_068_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .array(new int[]{10, 11, 12})
+                .n(13)
+                .expected(12)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getArray(), testCase.getN()))
                 .isEqualTo(testCase.getExpected());
     }
 }
