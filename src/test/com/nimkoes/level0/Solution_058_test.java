@@ -8,31 +8,35 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_058_test_ {
+@DisplayName("암호 해독")
+class Solution_058_test {
 
     @Builder
     @Getter
     static class TestCase {
-        int expected;
+        String cipher;
+        int code;
+        String expected;
     }
 
-    Solution_058_ solution;
+    Solution_058 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_058_();
+        solution = new Solution_058();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .cipher("dfjardstddetckdaccccdegk")
+                .code(4)
+                .expected("attack")
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getCipher(), testCase.getCode()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +44,12 @@ class Solution_058_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .cipher("pfqallllabwaoclk")
+                .code(2)
+                .expected("fallback")
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getCipher(), testCase.getCode()))
                 .isEqualTo(testCase.getExpected());
     }
 }
