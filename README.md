@@ -94,6 +94,7 @@
 | 058 | [암호 해독][link_level_0_058_source] |
 | 059 | [369게임][link_level_0_059_source] |
 | 060 | [합성수 찾기][link_level_0_060_source] |
+| 061 | [모스부호 (1)][link_level_0_061_source] |
   
 　  
 　  
