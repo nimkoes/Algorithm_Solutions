@@ -99,6 +99,7 @@
 | 063 | [A로 B 만들기][link_level_0_063_source] |
 | 064 | [팩토리얼][link_level_0_064_source] |
 | 065 | [2차원으로 만들기][link_level_0_065_source] |
+| 066 | [k의 개수][link_level_0_066_source] |
   
 　  
 　  
