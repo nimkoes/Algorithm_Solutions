@@ -92,6 +92,7 @@
 | 056 | [배열 회전시키기][link_level_0_056_source] |
 | 057 | [최댓값 만들기 (2)][link_level_0_057_source] |
 | 058 | [암호 해독][link_level_0_058_source] |
+| 059 | [369게임][link_level_0_059_source] |
   
 　  
 　  

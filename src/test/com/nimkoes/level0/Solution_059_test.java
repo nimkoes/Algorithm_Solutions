@@ -8,31 +8,33 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_059_test_ {
+@DisplayName("369게임")
+class Solution_059_test {
 
     @Builder
     @Getter
     static class TestCase {
+        int order;
         int expected;
     }
 
-    Solution_059_ solution;
+    Solution_059 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_059_();
+        solution = new Solution_059();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .order(3)
+                .expected(1)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getOrder()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +42,11 @@ class Solution_059_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .order(29423)
+                .expected(2)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getOrder()))
                 .isEqualTo(testCase.getExpected());
     }
 }
