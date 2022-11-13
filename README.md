@@ -87,6 +87,7 @@
 | 051 | [주사위의 개수][link_level_0_051_source] |
 | 052 | [피자 나눠 먹기 (2)][link_level_0_052_source] |
 | 053 | [숫자 찾기][link_level_0_053_source] |
+| 054 | [외계행성의 나이][link_level_0_054_source] |
   
 　  
 　  

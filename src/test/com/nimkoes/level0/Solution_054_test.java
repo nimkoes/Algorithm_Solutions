@@ -8,31 +8,33 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_054_test_ {
+@DisplayName("외계행성의 나이")
+class Solution_054_test {
 
     @Builder
     @Getter
     static class TestCase {
-        int expected;
+        int age;
+        String expected;
     }
 
-    Solution_054_ solution;
+    Solution_054 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_054_();
+        solution = new Solution_054();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .age(23)
+                .expected("cd")
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getAge()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +42,23 @@ class Solution_054_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .age(51)
+                .expected("fb")
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getAge()))
+                .isEqualTo(testCase.getExpected());
+    }
+
+    @Test
+    @DisplayName("입출력 예 테스트 3")
+    void test_03() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .age(100)
+                .expected("baa")
+                .build();
+
+        assertThat(solution.solution(testCase.getAge()))
                 .isEqualTo(testCase.getExpected());
     }
 }
