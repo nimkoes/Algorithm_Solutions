@@ -103,6 +103,7 @@
 | 067 | [7의 개수][link_level_0_067_source] |
 | 068 | [가까운 수][link_level_0_068_source] |
 | 069 | [한 번만 등장한 문자][link_level_0_069_source] |
+| 070 | [이진수 더하기][link_level_0_070_source] |
   
 　  
 　  
