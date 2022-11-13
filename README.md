@@ -105,6 +105,7 @@
 | 069 | [한 번만 등장한 문자][link_level_0_069_source] |
 | 070 | [이진수 더하기][link_level_0_070_source] |
 | 071 | [진료 순서 정하기][link_level_0_071_source] |
+| 072 | [공 던지기][link_level_0_072_source] |
   
 　  
 　  
