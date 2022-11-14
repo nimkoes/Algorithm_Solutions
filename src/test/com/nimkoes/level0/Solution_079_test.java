@@ -8,42 +8,33 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_079_test_ {
+@DisplayName("문자열 계산하기")
+class Solution_079_test {
 
     @Builder
     @Getter
     static class TestCase {
+        String my_string;
         int expected;
     }
 
-    Solution_079_ solution;
+    Solution_079 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_079_();
+        solution = new Solution_079();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .my_string("3 + 4")
+                .expected(7)
                 .build();
 
-        assertThat(solution.solution())
-                .isEqualTo(testCase.getExpected());
-    }
-
-    @Test
-    @DisplayName("입출력 예 테스트 2")
-    void test_02() {
-        TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
-                .build();
-
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getMy_string()))
                 .isEqualTo(testCase.getExpected());
     }
 }

@@ -112,6 +112,7 @@
 | 076 | [영어가 싫어요][link_level_0_076_source] |
 | 077 | [종이 자르기][link_level_0_077_source] |
 | 078 | [구슬을 나누는 경우의 수][link_level_0_078_source] |
+| 079 | [문자열 계산하기][link_level_0_079_source] |
   
 　  
 　  
