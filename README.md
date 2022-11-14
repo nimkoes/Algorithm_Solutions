@@ -106,6 +106,7 @@
 | 070 | [이진수 더하기][link_level_0_070_source] |
 | 071 | [진료 순서 정하기][link_level_0_071_source] |
 | 072 | [공 던지기][link_level_0_072_source] |
+| 073 | [잘라서 배열로 저장하기][link_level_0_073_source] |
   
 　  
 　  

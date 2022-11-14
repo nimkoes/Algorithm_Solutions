@@ -8,31 +8,35 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_073_test_ {
+@DisplayName("잘라서 배열로 저장하기")
+class Solution_073_test {
 
     @Builder
     @Getter
     static class TestCase {
-        int expected;
+        String my_str;
+        int n;
+        String[] expected;
     }
 
-    Solution_073_ solution;
+    Solution_073 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_073_();
+        solution = new Solution_073();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .my_str("abc1Addfggg4556b")
+                .n(6)
+                .expected(new String[]{"abc1Ad", "dfggg4", "556b"})
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getMy_str(), testCase.getN()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +44,12 @@ class Solution_073_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .my_str("abcdef123")
+                .n(3)
+                .expected(new String[]{"abc", "def", "123"})
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getMy_str(), testCase.getN()))
                 .isEqualTo(testCase.getExpected());
     }
 }
