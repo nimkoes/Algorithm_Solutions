@@ -8,31 +8,33 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_075_test_ {
+@DisplayName("숨어있는 숫자의 덧셈 (2)")
+class Solution_075_test {
 
     @Builder
     @Getter
     static class TestCase {
+        String my_string;
         int expected;
     }
 
-    Solution_075_ solution;
+    Solution_075 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_075_();
+        solution = new Solution_075();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .my_string("aAb1B2cC34oOp")
+                .expected(37)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getMy_string()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +42,11 @@ class Solution_075_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .my_string("1a2b3c4d123Z")
+                .expected(133)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getMy_string()))
                 .isEqualTo(testCase.getExpected());
     }
 }

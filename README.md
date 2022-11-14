@@ -108,6 +108,7 @@
 | 072 | [공 던지기][link_level_0_072_source] |
 | 073 | [잘라서 배열로 저장하기][link_level_0_073_source] |
 | 074 | [소인수분해][link_level_0_074_source] |
+| 075 | [숨어있는 숫자의 덧셈 (2)][link_level_0_075_source] |
   
 　  
 　  
