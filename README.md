@@ -114,6 +114,7 @@
 | 078 | [구슬을 나누는 경우의 수][link_level_0_078_source] |
 | 079 | [문자열 계산하기][link_level_0_079_source] |
 | 080 | [외계어 사전][link_level_0_080_source] |
+| 081 | [캐릭터의 좌표][link_level_0_081_source] |
   
 　  
 　  

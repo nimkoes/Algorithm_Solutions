@@ -8,31 +8,35 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_081_test_ {
+@DisplayName("캐릭터의 좌표")
+class Solution_081_test {
 
     @Builder
     @Getter
     static class TestCase {
-        int expected;
+        String[] keyinput;
+        int[] board;
+        int[] expected;
     }
 
-    Solution_081_ solution;
+    Solution_081 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_081_();
+        solution = new Solution_081();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .keyinput(new String[]{"left", "right", "up", "right", "right"})
+                .board(new int[]{11, 11})
+                .expected(new int[]{2, 1})
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getKeyinput(), testCase.getBoard()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +44,12 @@ class Solution_081_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .keyinput(new String[]{"down", "down", "down", "down", "down"})
+                .board(new int[]{7, 9})
+                .expected(new int[]{0, -4})
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getKeyinput(), testCase.getBoard()))
                 .isEqualTo(testCase.getExpected());
     }
 }
