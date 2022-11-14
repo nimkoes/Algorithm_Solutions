@@ -8,31 +8,35 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_077_test_ {
+@DisplayName("종이 자르기")
+class Solution_077_test {
 
     @Builder
     @Getter
     static class TestCase {
+        int M;
+        int N;
         int expected;
     }
 
-    Solution_077_ solution;
+    Solution_077 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_077_();
+        solution = new Solution_077();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .M(2)
+                .N(2)
+                .expected(3)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getM(), testCase.getN()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +44,25 @@ class Solution_077_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
+                .M(2)
+                .N(5)
+                .expected(9)
+                .build();
+
+        assertThat(solution.solution(testCase.getM(), testCase.getN()))
+                .isEqualTo(testCase.getExpected());
+    }
+
+    @Test
+    @DisplayName("입출력 예 테스트 3")
+    void test_03() {
+        TestCase testCase = new TestCase.TestCaseBuilder()
+                .M(1)
+                .N(1)
                 .expected(0)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getM(), testCase.getN()))
                 .isEqualTo(testCase.getExpected());
     }
 }
