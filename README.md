@@ -111,6 +111,7 @@
 | 075 | [숨어있는 숫자의 덧셈 (2)][link_level_0_075_source] |
 | 076 | [영어가 싫어요][link_level_0_076_source] |
 | 077 | [종이 자르기][link_level_0_077_source] |
+| 078 | [구슬을 나누는 경우의 수][link_level_0_078_source] |
   
 　  
 　  
