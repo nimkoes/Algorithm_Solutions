@@ -109,6 +109,7 @@
 | 073 | [잘라서 배열로 저장하기][link_level_0_073_source] |
 | 074 | [소인수분해][link_level_0_074_source] |
 | 075 | [숨어있는 숫자의 덧셈 (2)][link_level_0_075_source] |
+| 076 | [영어가 싫어요][link_level_0_076_source] |
   
 　  
 　  
