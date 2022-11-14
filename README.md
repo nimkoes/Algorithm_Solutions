@@ -107,6 +107,7 @@
 | 071 | [진료 순서 정하기][link_level_0_071_source] |
 | 072 | [공 던지기][link_level_0_072_source] |
 | 073 | [잘라서 배열로 저장하기][link_level_0_073_source] |
+| 074 | [소인수분해][link_level_0_074_source] |
   
 　  
 　  
