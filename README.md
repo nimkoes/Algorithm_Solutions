@@ -115,6 +115,7 @@
 | 079 | [문자열 계산하기][link_level_0_079_source] |
 | 080 | [외계어 사전][link_level_0_080_source] |
 | 081 | [캐릭터의 좌표][link_level_0_081_source] |
+| 082 | [삼각형의 완성조건 (2)][link_level_0_082_source] |
   
 　  
 　  
