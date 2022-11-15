@@ -126,6 +126,7 @@
 | 090 | [특이한 정렬][link_level_0_090_source] |
 | 091 | [저주의 숫자 3][link_level_0_091_source] |
 | 092 | [최빈값 구하기][link_level_0_092_source] |
+| 093 | [다음에 올 숫자][link_level_0_093_source] |
   
 　  
 　  
