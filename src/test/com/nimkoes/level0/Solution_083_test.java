@@ -8,31 +8,33 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_083_test_ {
+@DisplayName("직사각형 넓이 구하기")
+class Solution_083_test {
 
     @Builder
     @Getter
     static class TestCase {
+        int[][] dots;
         int expected;
     }
 
-    Solution_083_ solution;
+    Solution_083 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_083_();
+        solution = new Solution_083();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .dots(new int[][]{{1, 1}, {2, 1}, {2, 2}, {1, 2}})
+                .expected(1)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getDots()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +42,11 @@ class Solution_083_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .dots(new int[][]{{-1, -1}, {1, 1}, {1, -1}, {-1, 1}})
+                .expected(4)
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getDots()))
                 .isEqualTo(testCase.getExpected());
     }
 }
