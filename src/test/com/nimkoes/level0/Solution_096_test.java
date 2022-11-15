@@ -8,31 +8,39 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_096_test_ {
+@DisplayName("분수의 덧셈")
+class Solution_096_test {
 
     @Builder
     @Getter
     static class TestCase {
-        int expected;
+        int denum1;
+        int num1;
+        int denum2;
+        int num2;
+        int[] expected;
     }
 
-    Solution_096_ solution;
+    Solution_096 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_096_();
+        solution = new Solution_096();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .denum1(1)
+                .num1(2)
+                .denum2(3)
+                .num2(4)
+                .expected(new int[]{5, 4})
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getDenum1(), testCase.getNum1(), testCase.getDenum2(), testCase.getNum2()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +48,14 @@ class Solution_096_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .denum1(9)
+                .num1(2)
+                .denum2(1)
+                .num2(3)
+                .expected(new int[]{29, 6})
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getDenum1(), testCase.getNum1(), testCase.getDenum2(), testCase.getNum2()))
                 .isEqualTo(testCase.getExpected());
     }
 }
