@@ -122,6 +122,7 @@
 | 086 | [문자열 밀기][link_level_0_086_source] |
 | 087 | [로그인 성공?][link_level_0_087_source] |
 | 088 | [등수 매기기][link_level_0_088_source] |
+| 089 | [치킨 쿠폰][link_level_0_089_source] |
   
 　  
 　  
