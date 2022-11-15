@@ -119,6 +119,7 @@
 | 083 | [직사각형 넓이 구하기][link_level_0_083_source] |
 | 084 | [유한소수 판별하기][link_level_0_084_source] |
 | 085 | [컨트롤 제트][link_level_0_085_source] |
+| 086 | [문자열 밀기][link_level_0_086_source] |
   
 　  
 　  
