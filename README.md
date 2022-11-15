@@ -130,7 +130,8 @@
 | 094 | [OX퀴즈][link_level_0_094_source] |
 | 095 | [다항식 더하기][link_level_0_095_source] |
 | 096 | [분수의 덧셈][link_level_0_096_source] |
-| 097 | [연속된 수의 합][link_level_0_096_source] |
+| 097 | [연속된 수의 합][link_level_0_097_source] |
+| 098 | [안전지대][link_level_0_098_source] |
   
 　  
 　  
