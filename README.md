@@ -132,6 +132,7 @@
 | 096 | [분수의 덧셈][link_level_0_096_source] |
 | 097 | [연속된 수의 합][link_level_0_097_source] |
 | 098 | [안전지대][link_level_0_098_source] |
+| 099 | [겹치는 선분의 길이][link_level_0_099_source] |
   
 　  
 　  
