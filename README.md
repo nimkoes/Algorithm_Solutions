@@ -128,6 +128,7 @@
 | 092 | [최빈값 구하기][link_level_0_092_source] |
 | 093 | [다음에 올 숫자][link_level_0_093_source] |
 | 094 | [OX퀴즈][link_level_0_094_source] |
+| 095 | [다항식 더하기][link_level_0_095_source] |
   
 　  
 　  

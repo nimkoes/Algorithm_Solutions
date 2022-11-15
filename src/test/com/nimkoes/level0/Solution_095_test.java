@@ -8,31 +8,33 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("")
-class Solution_095_test_ {
+@DisplayName("다항식 더하기")
+class Solution_095_test {
 
     @Builder
     @Getter
     static class TestCase {
-        int expected;
+        String polynomial;
+        String expected;
     }
 
-    Solution_095_ solution;
+    Solution_095 solution;
 
 
     @BeforeEach
     void setUp() {
-        solution = new Solution_095_();
+        solution = new Solution_095();
     }
 
     @Test
     @DisplayName("입출력 예 테스트 1")
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .polynomial("3x + 7 + x")
+                .expected("4x + 7")
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getPolynomial()))
                 .isEqualTo(testCase.getExpected());
     }
 
@@ -40,10 +42,11 @@ class Solution_095_test_ {
     @DisplayName("입출력 예 테스트 2")
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
-                .expected(0)
+                .polynomial("x + x + x")
+                .expected("3x")
                 .build();
 
-        assertThat(solution.solution())
+        assertThat(solution.solution(testCase.getPolynomial()))
                 .isEqualTo(testCase.getExpected());
     }
 }
