@@ -118,6 +118,7 @@
 | 082 | [삼각형의 완성조건 (2)][link_level_0_082_source] |
 | 083 | [직사각형 넓이 구하기][link_level_0_083_source] |
 | 084 | [유한소수 판별하기][link_level_0_084_source] |
+| 085 | [컨트롤 제트][link_level_0_085_source] |
   
 　  
 　  
