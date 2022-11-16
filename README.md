@@ -32,108 +32,108 @@
 ### level 0  
 ---
   
-| 번호 | 코드 링크                                   |
-|:--:|-----------------------------------------|
-| 001 | [옹알이(1)][link_level_0_001_source]       |
-| 002 | [두 수의 곱][link_level_0_002_source]       |
-| 003 | [두 수의 차][link_level_0_003_source]       |
-| 004 | [몫 구하기][link_level_0_004_source]        |
-| 005 | [두 수의 합][link_level_0_005_source]       |
-| 006 | [나머지 구하기][link_level_0_006_source]      |
-| 007 | [숫자 비교하기][link_level_0_007_source]      |
-| 008 | [나이 출력][link_level_0_008_source]        |
-| 009 | [각도기][link_level_0_009_source]          |
-| 010 | [짝수의 합][link_level_0_010_source]        |
-| 011 | [배열의 평균값][link_level_0_011_source]      |
-| 012 | [양꼬치][link_level_0_012_source]          |
-| 013 | [두 수의 나눗셈][link_level_0_013_source]     |
-| 014 | [머쓱이보다 키 큰 사람][link_level_0_014_source] |
-| 015 | [짝수 홀수 개수][link_level_0_015_source]     |
-| 016 | [중복된 숫자 개수][link_level_0_016_source]    |
-| 017 | [아이스 아메리카노][link_level_0_017_source]    |
-| 018 | [피자 나눠 먹기 (1)][link_level_0_018_source] |
-| 019 | [배열 뒤집기][link_level_0_019_source]       |
-| 020 | [문자열 뒤집기][link_level_0_020_source]      |
-| 021 | [피자 나눠 먹기 (3)][link_level_0_021_source] |
-| 022 | [배열 두배 만들기][link_level_0_022_source] |
-| 023 | [배열 원소의 길이][link_level_0_023_source] |
-| 024 | [편지][link_level_0_024_source] |
-| 025 | [최댓값 만들기 (1)][link_level_0_025_source] |
-| 026 | [배열 자르기][link_level_0_026_source] |
-| 027 | [점의 위치 구하기][link_level_0_027_source] |
-| 028 | [특정 문자 제거하기][link_level_0_028_source] |
-| 029 | [삼각형의 완성조건 (1)][link_level_0_029_source] |
-| 030 | [옷가게 할인 받기][link_level_0_030_source] |
-| 031 | [문자 반복 출력하기][link_level_0_031_source] |
-| 032 | [문자열안에 문자열][link_level_0_032_source] |
-| 033 | [배열의 유사도][link_level_0_033_source] |
-| 034 | [제곱수 판별하기][link_level_0_034_source] |
-| 035 | [짝수는 싫어요][link_level_0_035_source] |
-| 036 | [자릿수 더하기][link_level_0_036_source] |
-| 037 | [순서쌍의 개수][link_level_0_037_source] |
-| 038 | [세균 증식][link_level_0_038_source] |
-| 039 | [모음 제거][link_level_0_039_source] |
-| 040 | [숨어있는 숫자의 덧셈 (1)][link_level_0_040_source] |
-| 041 | [개미 군단][link_level_0_041_source] |
-| 042 | [문자열 정렬하기 (1)][link_level_0_042_source] |
-| 043 | [중앙값 구하기][link_level_0_043_source] |
-| 044 | [가위 바위 보][link_level_0_044_source] |
-| 045 | [n의 배수 고르기][link_level_0_045_source] |
-| 046 | [직각삼각형 출력하기][link_level_0_046_source] |
-| 047 | [가장 큰 수 찾기][link_level_0_047_source] |
-| 048 | [대문자와 소문자][link_level_0_048_source] |
-| 049 | [약수 구하기][link_level_0_049_source] |
-| 050 | [문자열 정렬하기 (2)][link_level_0_050_source] |
-| 051 | [주사위의 개수][link_level_0_051_source] |
-| 052 | [피자 나눠 먹기 (2)][link_level_0_052_source] |
-| 053 | [숫자 찾기][link_level_0_053_source] |
-| 054 | [외계행성의 나이][link_level_0_054_source] |
-| 055 | [인덱스 바꾸기][link_level_0_055_source] |
-| 056 | [배열 회전시키기][link_level_0_056_source] |
-| 057 | [최댓값 만들기 (2)][link_level_0_057_source] |
-| 058 | [암호 해독][link_level_0_058_source] |
-| 059 | [369게임][link_level_0_059_source] |
-| 060 | [합성수 찾기][link_level_0_060_source] |
-| 061 | [모스부호 (1)][link_level_0_061_source] |
-| 062 | [중복된 문자 제거][link_level_0_062_source] |
-| 063 | [A로 B 만들기][link_level_0_063_source] |
-| 064 | [팩토리얼][link_level_0_064_source] |
-| 065 | [2차원으로 만들기][link_level_0_065_source] |
-| 066 | [k의 개수][link_level_0_066_source] |
-| 067 | [7의 개수][link_level_0_067_source] |
-| 068 | [가까운 수][link_level_0_068_source] |
-| 069 | [한 번만 등장한 문자][link_level_0_069_source] |
-| 070 | [이진수 더하기][link_level_0_070_source] |
-| 071 | [진료 순서 정하기][link_level_0_071_source] |
-| 072 | [공 던지기][link_level_0_072_source] |
-| 073 | [잘라서 배열로 저장하기][link_level_0_073_source] |
-| 074 | [소인수분해][link_level_0_074_source] |
-| 075 | [숨어있는 숫자의 덧셈 (2)][link_level_0_075_source] |
-| 076 | [영어가 싫어요][link_level_0_076_source] |
-| 077 | [종이 자르기][link_level_0_077_source] |
-| 078 | [구슬을 나누는 경우의 수][link_level_0_078_source] |
-| 079 | [문자열 계산하기][link_level_0_079_source] |
-| 080 | [외계어 사전][link_level_0_080_source] |
-| 081 | [캐릭터의 좌표][link_level_0_081_source] |
-| 082 | [삼각형의 완성조건 (2)][link_level_0_082_source] |
-| 083 | [직사각형 넓이 구하기][link_level_0_083_source] |
-| 084 | [유한소수 판별하기][link_level_0_084_source] |
-| 085 | [컨트롤 제트][link_level_0_085_source] |
-| 086 | [문자열 밀기][link_level_0_086_source] |
-| 087 | [로그인 성공?][link_level_0_087_source] |
-| 088 | [등수 매기기][link_level_0_088_source] |
-| 089 | [치킨 쿠폰][link_level_0_089_source] |
-| 090 | [특이한 정렬][link_level_0_090_source] |
-| 091 | [저주의 숫자 3][link_level_0_091_source] |
-| 092 | [최빈값 구하기][link_level_0_092_source] |
-| 093 | [다음에 올 숫자][link_level_0_093_source] |
-| 094 | [OX퀴즈][link_level_0_094_source] |
-| 095 | [다항식 더하기][link_level_0_095_source] |
-| 096 | [분수의 덧셈][link_level_0_096_source] |
-| 097 | [연속된 수의 합][link_level_0_097_source] |
-| 098 | [안전지대][link_level_0_098_source] |
-| 099 | [겹치는 선분의 길이][link_level_0_099_source] |
-| 100 | [평행][link_level_0_100_source] |
+| 번호 | 풀이 코드 링크 | 테스트 코드 링크 |
+|:---:|-----------------------------------------|-----------------------------------------|
+| 001 | [옹알이(1)][link_level_0_001_source] | [링크][link_level_0_001_test_source] |
+| 002 | [두 수의 곱][link_level_0_002_source] | [링크][link_level_0_002_test_source] |
+| 003 | [두 수의 차][link_level_0_003_source] | [링크][link_level_0_003_test_source] |
+| 004 | [몫 구하기][link_level_0_004_source] | [링크][link_level_0_004_test_source] |
+| 005 | [두 수의 합][link_level_0_005_source] | [링크][link_level_0_005_test_source] |
+| 006 | [나머지 구하기][link_level_0_006_source] | [링크][link_level_0_006_test_source] |
+| 007 | [숫자 비교하기][link_level_0_007_source] | [링크][link_level_0_007_test_source] |
+| 008 | [나이 출력][link_level_0_008_source] | [링크][link_level_0_008_test_source] |
+| 009 | [각도기][link_level_0_009_source] | [링크][link_level_0_009_test_source] |
+| 010 | [짝수의 합][link_level_0_010_source] | [링크][link_level_0_010_test_source] |
+| 011 | [배열의 평균값][link_level_0_011_source] | [링크][link_level_0_011_test_source] |
+| 012 | [양꼬치][link_level_0_012_source] | [링크][link_level_0_012_test_source] |
+| 013 | [두 수의 나눗셈][link_level_0_013_source] | [링크][link_level_0_013_test_source] |
+| 014 | [머쓱이보다 키 큰 사람][link_level_0_014_source] | [링크][link_level_0_014_test_source] |
+| 015 | [짝수 홀수 개수][link_level_0_015_source] | [링크][link_level_0_015_test_source] |
+| 016 | [중복된 숫자 개수][link_level_0_016_source] | [링크][link_level_0_016_test_source] |
+| 017 | [아이스 아메리카노][link_level_0_017_source] | [링크][link_level_0_017_test_source] |
+| 018 | [피자 나눠 먹기 (1)][link_level_0_018_source] | [링크][link_level_0_018_test_source] |
+| 019 | [배열 뒤집기][link_level_0_019_source] | [링크][link_level_0_019_test_source] |
+| 020 | [문자열 뒤집기][link_level_0_020_source] | [링크][link_level_0_020_test_source] |
+| 021 | [피자 나눠 먹기 (3)][link_level_0_021_source] | [링크][link_level_0_021_test_source] |
+| 022 | [배열 두배 만들기][link_level_0_022_source] | [링크][link_level_0_022_test_source] |
+| 023 | [배열 원소의 길이][link_level_0_023_source] | [링크][link_level_0_023_test_source] |
+| 024 | [편지][link_level_0_024_source] | [링크][link_level_0_024_test_source] |
+| 025 | [최댓값 만들기 (1)][link_level_0_025_source] | [링크][link_level_0_025_test_source] |
+| 026 | [배열 자르기][link_level_0_026_source] | [링크][link_level_0_026_test_source] |
+| 027 | [점의 위치 구하기][link_level_0_027_source] | [링크][link_level_0_027_test_source] |
+| 028 | [특정 문자 제거하기][link_level_0_028_source] | [링크][link_level_0_028_test_source] |
+| 029 | [삼각형의 완성조건 (1)][link_level_0_029_source] | [링크][link_level_0_029_test_source] |
+| 030 | [옷가게 할인 받기][link_level_0_030_source] | [링크][link_level_0_030_test_source] |
+| 031 | [문자 반복 출력하기][link_level_0_031_source] | [링크][link_level_0_031_test_source] |
+| 032 | [문자열안에 문자열][link_level_0_032_source] | [링크][link_level_0_032_test_source] |
+| 033 | [배열의 유사도][link_level_0_033_source] | [링크][link_level_0_033_test_source] |
+| 034 | [제곱수 판별하기][link_level_0_034_source] | [링크][link_level_0_034_test_source] |
+| 035 | [짝수는 싫어요][link_level_0_035_source] | [링크][link_level_0_035_test_source] |
+| 036 | [자릿수 더하기][link_level_0_036_source] | [링크][link_level_0_036_test_source] |
+| 037 | [순서쌍의 개수][link_level_0_037_source] | [링크][link_level_0_037_test_source] |
+| 038 | [세균 증식][link_level_0_038_source] | [링크][link_level_0_038_test_source] |
+| 039 | [모음 제거][link_level_0_039_source] | [링크][link_level_0_039_test_source] |
+| 040 | [숨어있는 숫자의 덧셈 (1)][link_level_0_040_source] | [링크][link_level_0_040_test_source] |
+| 041 | [개미 군단][link_level_0_041_source] | [링크][link_level_0_041_test_source] |
+| 042 | [문자열 정렬하기 (1)][link_level_0_042_source] | [링크][link_level_0_042_test_source] |
+| 043 | [중앙값 구하기][link_level_0_043_source] | [링크][link_level_0_043_test_source] |
+| 044 | [가위 바위 보][link_level_0_044_source] | [링크][link_level_0_044_test_source] |
+| 045 | [n의 배수 고르기][link_level_0_045_source] | [링크][link_level_0_045_test_source] |
+| 046 | [직각삼각형 출력하기][link_level_0_046_source] | [링크][link_level_0_046_test_source] |
+| 047 | [가장 큰 수 찾기][link_level_0_047_source] | [링크][link_level_0_047_test_source] |
+| 048 | [대문자와 소문자][link_level_0_048_source] | [링크][link_level_0_048_test_source] |
+| 049 | [약수 구하기][link_level_0_049_source] | [링크][link_level_0_049_test_source] |
+| 050 | [문자열 정렬하기 (2)][link_level_0_050_source] | [링크][link_level_0_050_test_source] |
+| 051 | [주사위의 개수][link_level_0_051_source] | [링크][link_level_0_051_test_source] |
+| 052 | [피자 나눠 먹기 (2)][link_level_0_052_source] | [링크][link_level_0_052_test_source] |
+| 053 | [숫자 찾기][link_level_0_053_source] | [링크][link_level_0_053_test_source] |
+| 054 | [외계행성의 나이][link_level_0_054_source] | [링크][link_level_0_054_test_source] |
+| 055 | [인덱스 바꾸기][link_level_0_055_source] | [링크][link_level_0_055_test_source] |
+| 056 | [배열 회전시키기][link_level_0_056_source] | [링크][link_level_0_056_test_source] |
+| 057 | [최댓값 만들기 (2)][link_level_0_057_source] | [링크][link_level_0_057_test_source] |
+| 058 | [암호 해독][link_level_0_058_source] | [링크][link_level_0_058_test_source] |
+| 059 | [369게임][link_level_0_059_source] | [링크][link_level_0_059_test_source] |
+| 060 | [합성수 찾기][link_level_0_060_source] | [링크][link_level_0_060_test_source] |
+| 061 | [모스부호 (1)][link_level_0_061_source] | [링크][link_level_0_061_test_source] |
+| 062 | [중복된 문자 제거][link_level_0_062_source] | [링크][link_level_0_062_test_source] |
+| 063 | [A로 B 만들기][link_level_0_063_source] | [링크][link_level_0_063_test_source] |
+| 064 | [팩토리얼][link_level_0_064_source] | [링크][link_level_0_064_test_source] |
+| 065 | [2차원으로 만들기][link_level_0_065_source] | [링크][link_level_0_065_test_source] |
+| 066 | [k의 개수][link_level_0_066_source] | [링크][link_level_0_066_test_source] |
+| 067 | [7의 개수][link_level_0_067_source] | [링크][link_level_0_067_test_source] |
+| 068 | [가까운 수][link_level_0_068_source] | [링크][link_level_0_068_test_source] |
+| 069 | [한 번만 등장한 문자][link_level_0_069_source] | [링크][link_level_0_069_test_source] |
+| 070 | [이진수 더하기][link_level_0_070_source] | [링크][link_level_0_070_test_source] |
+| 071 | [진료 순서 정하기][link_level_0_071_source] | [링크][link_level_0_071_test_source] |
+| 072 | [공 던지기][link_level_0_072_source] | [링크][link_level_0_072_test_source] |
+| 073 | [잘라서 배열로 저장하기][link_level_0_073_source] | [링크][link_level_0_073_test_source] |
+| 074 | [소인수분해][link_level_0_074_source] | [링크][link_level_0_074_test_source] |
+| 075 | [숨어있는 숫자의 덧셈 (2)][link_level_0_075_source] | [링크][link_level_0_075_test_source] |
+| 076 | [영어가 싫어요][link_level_0_076_source] | [링크][link_level_0_076_test_source] |
+| 077 | [종이 자르기][link_level_0_077_source] | [링크][link_level_0_077_test_source] |
+| 078 | [구슬을 나누는 경우의 수][link_level_0_078_source] | [링크][link_level_0_078_test_source] |
+| 079 | [문자열 계산하기][link_level_0_079_source] | [링크][link_level_0_079_test_source] |
+| 080 | [외계어 사전][link_level_0_080_source] | [링크][link_level_0_080_test_source] |
+| 081 | [캐릭터의 좌표][link_level_0_081_source] | [링크][link_level_0_081_test_source] |
+| 082 | [삼각형의 완성조건 (2)][link_level_0_082_source] | [링크][link_level_0_082_test_source] |
+| 083 | [직사각형 넓이 구하기][link_level_0_083_source] | [링크][link_level_0_083_test_source] |
+| 084 | [유한소수 판별하기][link_level_0_084_source] | [링크][link_level_0_084_test_source] |
+| 085 | [컨트롤 제트][link_level_0_085_source] | [링크][link_level_0_085_test_source] |
+| 086 | [문자열 밀기][link_level_0_086_source] | [링크][link_level_0_086_test_source] |
+| 087 | [로그인 성공?][link_level_0_087_source] | [링크][link_level_0_087_test_source] |
+| 088 | [등수 매기기][link_level_0_088_source] | [링크][link_level_0_088_test_source] |
+| 089 | [치킨 쿠폰][link_level_0_089_source] | [링크][link_level_0_089_test_source] |
+| 090 | [특이한 정렬][link_level_0_090_source] | [링크][link_level_0_090_test_source] |
+| 091 | [저주의 숫자 3][link_level_0_091_source] | [링크][link_level_0_091_test_source] |
+| 092 | [최빈값 구하기][link_level_0_092_source] | [링크][link_level_0_092_test_source] |
+| 093 | [다음에 올 숫자][link_level_0_093_source] | [링크][link_level_0_093_test_source] |
+| 094 | [OX퀴즈][link_level_0_094_source] | [링크][link_level_0_094_test_source] |
+| 095 | [다항식 더하기][link_level_0_095_source] | [링크][link_level_0_095_test_source] |
+| 096 | [분수의 덧셈][link_level_0_096_source] | [링크][link_level_0_096_test_source] |
+| 097 | [연속된 수의 합][link_level_0_097_source] | [링크][link_level_0_097_test_source] |
+| 098 | [안전지대][link_level_0_098_source] | [링크][link_level_0_098_test_source] |
+| 099 | [겹치는 선분의 길이][link_level_0_099_source] | [링크][link_level_0_099_test_source] |
+| 100 | [평행][link_level_0_100_source] | [링크][link_level_0_100_test_source] |
   
 　  
 　  
@@ -386,6 +386,106 @@
 [link_level_0_099_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/level0/Solution_099.java
 [link_level_0_100_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/level0/Solution_100.java
 
+[link_level_0_001_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_001_test.java
+[link_level_0_002_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_002_test.java
+[link_level_0_003_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_003_test.java
+[link_level_0_004_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_004_test.java
+[link_level_0_005_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_005_test.java
+[link_level_0_006_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_006_test.java
+[link_level_0_007_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_007_test.java
+[link_level_0_008_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_008_test.java
+[link_level_0_009_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_009_test.java
+[link_level_0_010_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_010_test.java
+[link_level_0_011_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_011_test.java
+[link_level_0_012_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_012_test.java
+[link_level_0_013_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_013_test.java
+[link_level_0_014_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_014_test.java
+[link_level_0_015_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_015_test.java
+[link_level_0_016_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_016_test.java
+[link_level_0_017_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_017_test.java
+[link_level_0_018_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_018_test.java
+[link_level_0_019_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_019_test.java
+[link_level_0_020_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_020_test.java
+[link_level_0_021_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_021_test.java
+[link_level_0_022_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_022_test.java
+[link_level_0_023_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_023_test.java
+[link_level_0_024_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_024_test.java
+[link_level_0_025_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_025_test.java
+[link_level_0_026_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_026_test.java
+[link_level_0_027_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_027_test.java
+[link_level_0_028_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_028_test.java
+[link_level_0_029_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_029_test.java
+[link_level_0_030_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_030_test.java
+[link_level_0_031_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_031_test.java
+[link_level_0_032_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_032_test.java
+[link_level_0_033_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_033_test.java
+[link_level_0_034_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_034_test.java
+[link_level_0_035_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_035_test.java
+[link_level_0_036_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_036_test.java
+[link_level_0_037_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_037_test.java
+[link_level_0_038_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_038_test.java
+[link_level_0_039_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_039_test.java
+[link_level_0_040_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_040_test.java
+[link_level_0_041_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_041_test.java
+[link_level_0_042_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_042_test.java
+[link_level_0_043_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_043_test.java
+[link_level_0_044_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_044_test.java
+[link_level_0_045_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_045_test.java
+[link_level_0_046_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_046_test.java
+[link_level_0_047_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_047_test.java
+[link_level_0_048_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_048_test.java
+[link_level_0_049_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_049_test.java
+[link_level_0_050_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_050_test.java
+[link_level_0_051_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_051_test.java
+[link_level_0_052_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_052_test.java
+[link_level_0_053_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_053_test.java
+[link_level_0_054_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_054_test.java
+[link_level_0_055_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_055_test.java
+[link_level_0_056_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_056_test.java
+[link_level_0_057_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_057_test.java
+[link_level_0_058_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_058_test.java
+[link_level_0_059_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_059_test.java
+[link_level_0_060_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_060_test.java
+[link_level_0_061_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_061_test.java
+[link_level_0_062_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_062_test.java
+[link_level_0_063_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_063_test.java
+[link_level_0_064_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_064_test.java
+[link_level_0_065_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_065_test.java
+[link_level_0_066_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_066_test.java
+[link_level_0_067_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_067_test.java
+[link_level_0_068_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_068_test.java
+[link_level_0_069_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_069_test.java
+[link_level_0_070_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_070_test.java
+[link_level_0_071_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_071_test.java
+[link_level_0_072_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_072_test.java
+[link_level_0_073_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_073_test.java
+[link_level_0_074_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_074_test.java
+[link_level_0_075_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_075_test.java
+[link_level_0_076_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_076_test.java
+[link_level_0_077_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_077_test.java
+[link_level_0_078_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_078_test.java
+[link_level_0_079_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_079_test.java
+[link_level_0_080_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_080_test.java
+[link_level_0_081_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_081_test.java
+[link_level_0_082_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_082_test.java
+[link_level_0_083_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_083_test.java
+[link_level_0_084_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_084_test.java
+[link_level_0_085_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_085_test.java
+[link_level_0_086_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_086_test.java
+[link_level_0_087_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_087_test.java
+[link_level_0_088_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_088_test.java
+[link_level_0_089_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_089_test.java
+[link_level_0_090_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_090_test.java
+[link_level_0_091_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_091_test.java
+[link_level_0_092_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_092_test.java
+[link_level_0_093_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_093_test.java
+[link_level_0_094_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_094_test.java
+[link_level_0_095_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_095_test.java
+[link_level_0_096_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_096_test.java
+[link_level_0_097_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_097_test.java
+[link_level_0_098_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_098_test.java
+[link_level_0_099_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_099_test.java
+[link_level_0_100_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_100_test.java
 
 [link_level_1_001]:https://xxxelppa.tistory.com/137
 [link_level_1_002]:https://xxxelppa.tistory.com/139
