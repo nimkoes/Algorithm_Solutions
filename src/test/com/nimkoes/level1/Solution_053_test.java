@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @DisplayName("수박수박수박수박수박수?")
-class _solution053_test {
+class Solution_053_test {
 
     @Builder
     @Getter
