@@ -180,7 +180,6 @@
 | 035 |위클리 챌린지|[최소직사각형][link_level_1_051]| [Solution_035][link_level_1_051_source]  |
 | 036 |연습문제|[x만큼 간격이 있는 n개의 숫자][link_level_1_044]| [Solution_036][link_level_1_044_source]  |
 | 037 |연습문제|[약수의 합][link_level_1_029]| [Solution_037][link_level_1_029_source]  |
-
 | 039 |월간 코드 챌린지 시즌1|[두 개 뽑아서 더하기][link_level_1_014]|[Solution_039][link_level_1_014_source]|
 | 040 |연습문제|[정수 내림차순으로 배치하기][link_level_1_033]|[Solution_040][link_level_1_033_source]|
 | 041 |찾아라 프로그래밍 마에스터|[폰켓몬][link_level_1_018]|[Solution_041][link_level_1_018_source]|
@@ -193,7 +192,6 @@
 | 048 |연습문제|[문자열 내 마음대로 정렬하기][link_level_1_020]|[Solution_048][link_level_1_020_source]|
 | 049 |연습문제|[문자열 내 p와 y의 개수][link_level_1_021]|[Solution_049][link_level_1_021_source]|
 | 050 |연습문제|[두 정수 사이의 합][link_level_1_019]|[Solution_050][link_level_1_019_source]|
-
 | 052 |연습문제|[자연수 뒤집어 배열로 만들기][link_level_1_032]|[Solution_052][link_level_1_032_source]|
 | 053 |연습문제|[수박수박수박수박수박수?][link_level_1_026]|[Solution_053][link_level_1_026_source]|
 
