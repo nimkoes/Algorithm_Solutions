@@ -156,7 +156,7 @@
 | 011 | 연습문제 | [콜라츠 추측][link_level_1_011_source] | [링크][link_level_1_011_test_source] |
 | 012 | 연습문제 | [문자열을 정수로 바꾸기][link_level_1_012_source] | [링크][link_level_1_012_test_source] |
 | 013 | 2019 카카오 개발자 겨울 인턴십 | [크레인 인형뽑기 게임][link_level_1_013_source] | [링크][link_level_1_013_test_source] |
-| 014 | 연습문제| [이상한 문자 만들기][link_level_1_014_source] | [링크][link_level_1_014_test_source] |
+| 014 | 연습문제 | [이상한 문자 만들기][link_level_1_014_source] | [링크][link_level_1_014_test_source] |
 | 015 | 2018 KAKAO BLIND RECRUITMENT | [(1차) 다트 게임][link_level_1_015_source] | [링크][link_level_1_015_test_source] |
 | 016 | 월간 코드 챌린지 시즌1| [내적][link_level_1_016_source] | [링크][link_level_1_016_test_source] |
 | 017 | 연습문제 | [직사각형 별찍기][link_level_1_017_source] | |
