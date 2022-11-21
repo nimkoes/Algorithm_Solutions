@@ -141,61 +141,61 @@
 ### level 1  
 ---
   
-| 번호 | 분류 | 풀이 코드 링크 | 테스트 코드 링크 |
-|:---:|---|---|---|
-| 001 | 연습문제 | [2016년][link_level_1_001_source] | [링크][link_level_1_001_test_source] |
-| 002 | 해시 | [완주하지 못한 선수][link_level_1_002_source] | [링크][link_level_1_002_test_source] |
-| 003 | 연습문제 | [없는 숫자 더하기][link_level_1_003_source] | [링크][link_level_1_003_test_source] |
-| 004 | 월간 코드 챌린지 시즌3 | [자릿수 더하기][link_level_1_004_source] | [링크][link_level_1_004_test_source] |
-| 005 | 월간 코드 챌린지 시즌2 | [음양 더하기][link_level_1_005_source] | [링크][link_level_1_005_test_source] |
-| 006 | 연습문제 | [나누어 떨어지는 숫자 배열][link_level_1_006_source] | [링크][link_level_1_006_test_source] |
-| 007 | 연습문제 | [문자열 내림차순으로 배치하기][link_level_1_007_source] | [링크][link_level_1_007_test_source] |
-| 008 | 연습문제 | [문자열 다루기 기본][link_level_1_008_source] | [링크][link_level_1_008_test_source] |
-| 009 | Summer/Winter Coding(~2018) | [예산][link_level_1_009_source] | [링크][link_level_1_009_test_source] |
-| 010 | 연습문제 | [시저 암호][link_level_1_010_source] | [링크][link_level_1_010_test_source] |
-| 011 | 연습문제 | [콜라츠 추측][link_level_1_011_source] | [링크][link_level_1_011_test_source] |
-| 012 | 연습문제 | [문자열을 정수로 바꾸기][link_level_1_012_source] | [링크][link_level_1_012_test_source] |
-| 013 | 2019 카카오 개발자 겨울 인턴십 | [크레인 인형뽑기 게임][link_level_1_013_source] | [링크][link_level_1_013_test_source] |
-| 014 | 연습문제 | [이상한 문자 만들기][link_level_1_014_source] | [링크][link_level_1_014_test_source] |
-| 015 | 2018 KAKAO BLIND RECRUITMENT | [(1차) 다트 게임][link_level_1_015_source] | [링크][link_level_1_015_test_source] |
-| 016 | 월간 코드 챌린지 시즌1| [내적][link_level_1_016_source] | [링크][link_level_1_016_test_source] |
-| 017 | 연습문제 | [직사각형 별찍기][link_level_1_017_source] | |
-| 018 | 연습문제 | [짝수와 홀수][link_level_1_018_source] | [링크][link_level_1_018_test_source] |
-| 019 | 2019 KAKAO BLIND RECRUITMENT | [실패율][link_level_1_019_source] | [링크][link_level_1_019_test_source] |
-| 020 | 연습문제 | [서울에서 김서방 찾기][link_level_1_020_source] | [링크][link_level_1_020_test_source] |
-| 021 | 월간 코드 챌린지 시즌3 | [나머지가 1이 되는 수 찾기][link_level_1_021_source] | [링크][link_level_1_021_test_source] |
-| 022 | 연습문제 | [소수 찾기][link_level_1_022_source] | [링크][link_level_1_022_test_source] |
-| 023 | 연습문제 | [평균 구하기][link_level_1_023_source] | [링크][link_level_1_023_test_source] |
-| 024 | 연습문제 | [가운데 글자 가져오기][link_level_1_024_source] | [링크][link_level_1_024_test_source] |
-| 025 | 연습문제 | [최대공약수와 최소공배수][link_level_1_025_source] | [링크][link_level_1_025_test_source] |
-| 026 | 탐욕법(Greedy) | [체육복][link_level_1_026_source] | [링크][link_level_1_026_test_source] |
-| 027 | 연습문제 | [하샤드 수][link_level_1_027_source] | [링크][link_level_1_027_test_source] |
-| 028 | 연습문제 | [핸드폰 번호 가리기][link_level_1_028_source] | [링크][link_level_1_028_test_source] |
-| 029 | 연습문제 | [같은 숫자는 싫어][link_level_1_029_source] | [링크][link_level_1_029_test_source] |
-| 030 | 연습문제 | [정수 제곱근 판별][link_level_1_030_source] | [링크][link_level_1_030_test_source] |
-| 031 | 정렬 | [K번째수][link_level_1_031_source] | [링크][link_level_1_031_test_source] |
-| 032 | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) | [로또의 최고 순위와 최저 순위][link_level_1_032_source] | [링크][link_level_1_032_test_source] |
-| 033 | Summer/Winter Coding(~2018) | [소수 만들기][link_level_1_033_source] | [링크][link_level_1_033_test_source] |
-| 034 | 연습문제 | [행렬의 덧셈][link_level_1_034_source] | [링크][link_level_1_034_test_source] |
-| 035 | 위클리 챌린지 | [최소직사각형][link_level_1_035_source] | [링크][link_level_1_035_test_source] |
-| 036 | 연습문제 | [x만큼 간격이 있는 n개의 숫자][link_level_1_036_source] | [링크][link_level_1_036_test_source] |
-| 037 | 월간 코드 챌린지 시즌2 | [약수의 개수와 덧셈][link_level_1_037_source] | [링크][link_level_1_037_test_source] |
-| 038 | 2021 카카오 채용연계형 인턴십 | [숫자 문자열과 영단어][link_level_1_038_source] | [링크][link_level_1_038_test_source] |
-| 039 | 월간 코드 챌린지 시즌1 | [두 개 뽑아서 더하기][link_level_1_039_source] | [링크][link_level_1_039_test_source] |
-| 040 | 연습문제 | [정수 내림차순으로 배치하기][link_level_1_040_source] | [링크][link_level_1_040_test_source] |
-| 041 | 찾아라 프로그래밍 마에스터 | [폰켓몬][link_level_1_041_source] | [링크][link_level_1_041_test_source] |
-| 042 | 완전탐색 | [모의고사][link_level_1_042_source] | [링크][link_level_1_042_test_source] |
-| 043 | 2020 카카오 인턴십 | [키패드 누르기][link_level_1_043_source] | [링크][link_level_1_043_test_source] |
-| 044 | 2021 KAKAO BLIND RECRUITMENT | [신규 아이디 추천][link_level_1_044_source] | [링크][link_level_1_044_test_source] |
-| 045 | 연습문제 | [제일 작은 수 제거하기][link_level_1_045_source] | [링크][link_level_1_045_test_source] |
-| 046 | 월간 코드 챌린지 시즌1 | [3진법 뒤집기][link_level_1_046_source] | [링크][link_level_1_046_test_source] |
-| 047 | 2018 KAKAO BLIND RECRUITMENT | [(1차) 비밀지도][link_level_1_047_source] | [링크][link_level_1_047_test_source] |
-| 048 | 연습문제 | [문자열 내 마음대로 정렬하기][link_level_1_048_source] | [링크][link_level_1_048_test_source] |
-| 049 | 연습문제 | [문자열 내 p와 y의 개수][link_level_1_049_source] | [링크][link_level_1_049_test_source] |
-| 050 | 연습문제 | [두 정수 사이의 합][link_level_1_050_source] | [링크][link_level_1_050_test_source] |
-| 051 | 연습문제 | [약수의 합][link_level_1_051_source] | [링크][link_level_1_051_test_source] |
-| 052 | 연습문제 | [자연수 뒤집어 배열로 만들기][link_level_1_052_source ] | [링크][link_level_1_052_test_source] |
-| 053 | 연습문제 | [수박수박수박수박수박수?][link_level_1_053_source ] | [링크][link_level_1_053_test_source] |
+| 번호  | 풀이 코드 링크 | 테스트 코드 링크 |
+|:---:|---|---|
+| 001 | [2016년<sub>연습문제</sub>][link_level_1_001_source] | [링크][link_level_1_001_test_source] |
+| 002 | [완주하지 못한 선수<sub>해시</sub>][link_level_1_002_source] | [링크][link_level_1_002_test_source] |
+| 003 | [없는 숫자 더하기<sub>연습문제</sub>][link_level_1_003_source] | [링크][link_level_1_003_test_source] |
+| 004 | [자릿수 더하기<sub>월간 코드 챌린지 시즌3</sub>][link_level_1_004_source] | [링크][link_level_1_004_test_source] |
+| 005 | [음양 더하기<sub>월간 코드 챌린지 시즌2</sub>][link_level_1_005_source] | [링크][link_level_1_005_test_source] |
+| 006 | [나누어 떨어지는 숫자 배열<sub>연습문제</sub>][link_level_1_006_source] | [링크][link_level_1_006_test_source] |
+| 007 | [문자열 내림차순으로 배치하기<sub>연습문제</sub>][link_level_1_007_source] | [링크][link_level_1_007_test_source] |
+| 008 | [문자열 다루기 기본<sub>연습문제</sub>][link_level_1_008_source] | [링크][link_level_1_008_test_source] |
+| 009 | [예산<sub>Summer/Winter Coding(~2018)</sub>][link_level_1_009_source] | [링크][link_level_1_009_test_source] |
+| 010 | [시저 암호<sub>연습문제</sub>][link_level_1_010_source] | [링크][link_level_1_010_test_source] |
+| 011 | [콜라츠 추측<sub>연습문제</sub>][link_level_1_011_source] | [링크][link_level_1_011_test_source] |
+| 012 | [문자열을 정수로 바꾸기<sub>연습문제</sub>][link_level_1_012_source] | [링크][link_level_1_012_test_source] |
+| 013 | [크레인 인형뽑기 게임<sub>2019 카카오 개발자 겨울 인턴십</sub>][link_level_1_013_source] | [링크][link_level_1_013_test_source] |
+| 014 | [이상한 문자 만들기<sub>연습문제</sub>][link_level_1_014_source] | [링크][link_level_1_014_test_source] |
+| 015 | [(1차) 다트 게임<sub>2018 KAKAO BLIND RECRUITMENT</sub>][link_level_1_015_source] | [링크][link_level_1_015_test_source] |
+| 016 | [내적<sub>월간 코드 챌린지 시즌1</sub>][link_level_1_016_source] | [링크][link_level_1_016_test_source] |
+| 017 | [직사각형 별찍기][link_level_1_017_source] |  |
+| 018 | [짝수와 홀수<sub>연습문제</sub>][link_level_1_018_source] | [링크][link_level_1_018_test_source] |
+| 019 | [실패율<sub>2019 KAKAO BLIND RECRUITMENT</sub>][link_level_1_019_source] | [링크][link_level_1_019_test_source] |
+| 020 | [서울에서 김서방 찾기<sub>연습문제</sub>][link_level_1_020_source] | [링크][link_level_1_020_test_source] |
+| 021 | [나머지가 1이 되는 수 찾기<sub>월간 코드 챌린지 시즌3</sub>][link_level_1_021_source] | [링크][link_level_1_021_test_source] |
+| 022 | [소수 찾기<sub>연습문제</sub>][link_level_1_022_source] | [링크][link_level_1_022_test_source] |
+| 023 | [평균 구하기<sub>연습문제</sub>][link_level_1_023_source] | [링크][link_level_1_023_test_source] |
+| 024 | [가운데 글자 가져오기<sub>연습문제</sub>][link_level_1_024_source] | [링크][link_level_1_024_test_source] |
+| 025 | [최대공약수와 최소공배수<sub>연습문제</sub>][link_level_1_025_source] | [링크][link_level_1_025_test_source] |
+| 026 | [체육복<sub>탐욕법(Greedy)</sub>][link_level_1_026_source] | [링크][link_level_1_026_test_source] |
+| 027 | [하샤드 수<sub>연습문제</sub>][link_level_1_027_source] | [링크][link_level_1_027_test_source] |
+| 028 | [핸드폰 번호 가리기<sub>연습문제</sub>][link_level_1_028_source] | [링크][link_level_1_028_test_source] |
+| 029 | [같은 숫자는 싫어<sub>연습문제</sub>][link_level_1_029_source] | [링크][link_level_1_029_test_source] |
+| 030 | [정수 제곱근 판별<sub>연습문제</sub>][link_level_1_030_source] | [링크][link_level_1_030_test_source] |
+| 031 | [K번째수<sub>정렬</sub>][link_level_1_031_source] | [링크][link_level_1_031_test_source] |
+| 032 | [로또의 최고 순위와 최저 순위<sub>2021 Dev-Matching: 웹 백엔드 개발자(상반기)</sub>][link_level_1_032_source] | [링크][link_level_1_032_test_source] |
+| 033 | [소수 만들기<sub>Summer/Winter Coding(~2018)</sub>][link_level_1_033_source] | [링크][link_level_1_033_test_source] |
+| 034 | [행렬의 덧셈<sub>연습문제</sub>][link_level_1_034_source] | [링크][link_level_1_034_test_source] |
+| 035 | [최소직사각형<sub>위클리 챌린지</sub>][link_level_1_035_source] | [링크][link_level_1_035_test_source] |
+| 036 | [x만큼 간격이 있는 n개의 숫자<sub>연습문제</sub>][link_level_1_036_source] | [링크][link_level_1_036_test_source] |
+| 037 | [약수의 개수와 덧셈<sub>월간 코드 챌린지 시즌2</sub>][link_level_1_037_source] | [링크][link_level_1_037_test_source] |
+| 038 | [숫자 문자열과 영단어<sub>2021 카카오 채용연계형 인턴십</sub>][link_level_1_038_source] | [링크][link_level_1_038_test_source] |
+| 039 | [두 개 뽑아서 더하기<sub>월간 코드 챌린지 시즌1</sub>][link_level_1_039_source] | [링크][link_level_1_039_test_source] |
+| 040 | [정수 내림차순으로 배치하기<sub>연습문제</sub>][link_level_1_040_source] | [링크][link_level_1_040_test_source] |
+| 041 | [폰켓몬<sub>찾아라 프로그래밍 마에스터</sub>][link_level_1_041_source] | [링크][link_level_1_041_test_source] |
+| 042 | [모의고사<sub>완전탐색</sub>][link_level_1_042_source] | [링크][link_level_1_042_test_source] |
+| 043 | [키패드 누르기<sub>2020 카카오 인턴십</sub>][link_level_1_043_source] | [링크][link_level_1_043_test_source] |
+| 044 | [신규 아이디 추천<sub>2021 KAKAO BLIND RECRUITMENT</sub>][link_level_1_044_source] | [링크][link_level_1_044_test_source] |
+| 045 | [제일 작은 수 제거하기<sub>연습문제</sub>][link_level_1_045_source] | [링크][link_level_1_045_test_source] |
+| 046 | [3진법 뒤집기<sub>월간 코드 챌린지 시즌1</sub>][link_level_1_046_source] | [링크][link_level_1_046_test_source] |
+| 047 | [(1차) 비밀지도<sub>2018 KAKAO BLIND RECRUITMENT</sub>][link_level_1_047_source] | [링크][link_level_1_047_test_source] |
+| 048 | [문자열 내 마음대로 정렬하기<sub>연습문제</sub>][link_level_1_048_source] | [링크][link_level_1_048_test_source] |
+| 049 | [문자열 내 p와 y의 개수<sub>연습문제</sub>][link_level_1_049_source] | [링크][link_level_1_049_test_source] |
+| 050 | [두 정수 사이의 합<sub>연습문제</sub>][link_level_1_050_source] | [링크][link_level_1_050_test_source] |
+| 051 | [약수의 합<sub>연습문제</sub>][link_level_1_051_source] | [링크][link_level_1_051_test_source] |
+| 052 | [자연수 뒤집어 배열로 만들기<sub>연습문제</sub>][link_level_1_052_source ] | [링크][link_level_1_052_test_source] |
+| 053 | [수박수박수박수박수박수<sub>연습문제</sub>?][link_level_1_053_source ] | [링크][link_level_1_053_test_source] |
 
   
 　  
