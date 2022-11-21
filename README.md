@@ -174,7 +174,7 @@
 | 029 | [같은 숫자는 싫어<sub>연습문제</sub>][link_level_1_029_source] | [링크][link_level_1_029_test_source] |
 | 030 | [정수 제곱근 판별<sub>연습문제</sub>][link_level_1_030_source] | [링크][link_level_1_030_test_source] |
 | 031 | [K번째수<sub>정렬</sub>][link_level_1_031_source] | [링크][link_level_1_031_test_source] |
-| 032 | [로또의 최고 순위와 최저 순위<sub>2021 Dev-Matching: 웹 백엔드 개발자(상반기)</sub>][link_level_1_032_source] | [링크][link_level_1_032_test_source] |
+| 032 | [로또의 최고 순위와 최저 순위<sub>2021 Dev-Matching: 웹 백엔드 개발자(상반기)</sub>][link_level_1_032_source]  [링크][link_level_1_032_test_source] |
 | 033 | [소수 만들기<sub>Summer/Winter Coding(~2018)</sub>][link_level_1_033_source] | [링크][link_level_1_033_test_source] |
 | 034 | [행렬의 덧셈<sub>연습문제</sub>][link_level_1_034_source] | [링크][link_level_1_034_test_source] |
 | 035 | [최소직사각형<sub>위클리 챌린지</sub>][link_level_1_035_source] | [링크][link_level_1_035_test_source] |
@@ -195,7 +195,7 @@
 | 050 | [두 정수 사이의 합<sub>연습문제</sub>][link_level_1_050_source] | [링크][link_level_1_050_test_source] |
 | 051 | [약수의 합<sub>연습문제</sub>][link_level_1_051_source] | [링크][link_level_1_051_test_source] |
 | 052 | [자연수 뒤집어 배열로 만들기<sub>연습문제</sub>][link_level_1_052_source ] | [링크][link_level_1_052_test_source] |
-| 053 | [수박수박수박수박수박수<sub>연습문제</sub>?][link_level_1_053_source ] | [링크][link_level_1_053_test_source] |
+| 053 | [수박수박수박수박수박수?<sub>연습문제</sub>][link_level_1_053_source ] | [링크][link_level_1_053_test_source] |
 
   
 　  
