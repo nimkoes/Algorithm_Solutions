@@ -142,7 +142,7 @@
 ---
   
 | 번호 | 분류 | 풀이 코드 링크 | 테스트 코드 링크 |
-|:--:|---|---|---|
+|:---:|---|---|---|
 | 001 | 연습문제 | [2016년][link_level_1_001_source] | [링크][link_level_1_001_test_source] |
 | 002 | 해시 | [완주하지 못한 선수][link_level_1_002_source] | [링크][link_level_1_002_test_source] |
 | 003 | 연습문제 | [없는 숫자 더하기][link_level_1_003_source] | [링크][link_level_1_003_test_source] |
