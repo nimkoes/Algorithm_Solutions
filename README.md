@@ -140,60 +140,62 @@
 
 ### level 1  
 ---
-
-|번호|분류|문제이름| 클래스이름                                   |
-|:---:|---|---|-----------------------------------------|
-| 001 |연습문제|[2016년][link_level_1_007]| [Solution_001][link_level_1_007_source] |
-| 002 |해시|[완주하지 못한 선수][link_level_1_002]| [Solution_002][link_level_1_002_source] |
-| 003 |연습문제|[자릿수 더하기][link_level_1_031]| [Solution_003][link_level_1_031_source] |
-| 004 |월간 코드 챌린지 시즌3|[없는 숫자 더하기][link_level_1_049]| [Solution_004][link_level_1_049_source] |
-| 005 |월간 코드 챌린지 시즌2|[음양 더하기][link_level_1_016]| [Solution_005][link_level_1_016_source] |
-| 006 |연습문제|[나누어 떨어지는 숫자 배열][link_level_1_017]| [Solution_006][link_level_1_017_source] |
-| 007 |연습문제|[문자열 내림차순으로 배치하기][link_level_1_022]| [Solution_007][link_level_1_022_source] |
-| 008 |연습문제|[문자열 다루기 기본][link_level_1_023]| [Solution_008][link_level_1_023_source] |
-| 009 |Summer/Winter Coding(~2018)|[예산][link_level_1_015]| [Solution_009][link_level_1_015_source] |
-| 010 |연습문제|[시저 암호][link_level_1_028]| [Solution_010][link_level_1_028_source]  |
-| 011 |연습문제|[콜라츠 추측][link_level_1_039]| [Solution_011][link_level_1_039_source]  |
-| 012 |연습문제|[문자열을 정수로 바꾸기][link_level_1_027]| [Solution_012][link_level_1_027_source]  |
-| 013 |2019 카카오 개발자 겨울 인턴십|[크레인 인형뽑기 게임][link_level_1_001]| [Solution_013][link_level_1_001_source]  |
-| 014 |연습문제|[이상한 문자 만들기][link_level_1_030]| [Solution_014][link_level_1_030_source]  |
-| 015 |2018 KAKAO BLIND RECRUITMENT|[(1차) 다트 게임][link_level_1_048]| [Solution_015][link_level_1_048_source]  |
-| 016 |월간 코드 챌린지 시즌1|[내적][link_level_1_012]| [Solution_016][link_level_1_012_source]  |
-| 017 |연습문제|[직사각형 별찍기][link_level_1_045]| [Solution_017][link_level_1_045_source]  |
-| 018 |연습문제|[짝수와 홀수][link_level_1_036]| [Solution_018][link_level_1_036_source]  |
-| 019 |2019 KAKAO BLIND RECRUITMENT|[실패율][link_level_1_047]| [Solution_019][link_level_1_047_source]  |
-| 020 |연습문제|[서울에서 김서방 찾기][link_level_1_024]| [Solution_020][link_level_1_024_source]  |
-| 021 |월간 코드 챌린지 시즌3|[나머지가 1이 되는 수 찾기][link_level_1_050]| [Solution_021][link_level_1_050_source]  |
-| 022 |연습문제|[소수 찾기][link_level_1_025]| [Solution_022][link_level_1_025_source]  |
-| 023 |연습문제|[평균 구하기][link_level_1_040]| [Solution_023][link_level_1_040_source]  |
-| 024 |연습문제|[가운데 글자 가져오기][link_level_1_008]| [Solution_024][link_level_1_008_source]  |
-| 025 |연습문제|[최대공약수와 최소공배수][link_level_1_038]| [Solution_025][link_level_1_038_source]  |
-| 026 |탐욕법(Greedy)|[체육복][link_level_1_005]| [Solution_026][link_level_1_005_source]  |
-| 027 |연습문제|[하샤드 수][link_level_1_041]| [Solution_027][link_level_1_041_source]  |
-| 028 |연습문제|[핸드폰 번호 가리기][link_level_1_042]| [Solution_028][link_level_1_042_source]  |
-| 029 |연습문제|[같은 숫자는 싫어][link_level_1_009]| [Solution_029][link_level_1_009_source]  |
-| 030 |연습문제|[정수 제곱근 판별][link_level_1_034]| [Solution_030][link_level_1_034_source]  |
-| 031 |정렬|[K번째수][link_level_1_006]| [Solution_031][link_level_1_006_source]  |
-| 032 |2021 Dev-Matching: 웹 백엔드 개발자(상반기)|[로또의 최고 순위와 최저 순위][link_level_1_011]| [Solution_032][link_level_1_011_source]  |
-| 033 |Summer/Winter Coding(~2018)|[소수 만들기][link_level_1_013]| [Solution_033][link_level_1_013_source]  |
-| 034 |연습문제|[행렬의 덧셈][link_level_1_043]| [Solution_034][link_level_1_043_source]  |
-| 035 |위클리 챌린지|[최소직사각형][link_level_1_051]| [Solution_035][link_level_1_051_source]  |
-| 036 |연습문제|[x만큼 간격이 있는 n개의 숫자][link_level_1_044]| [Solution_036][link_level_1_044_source]  |
-| 037 |연습문제|[약수의 합][link_level_1_029]| [Solution_037][link_level_1_029_source]  |
-| 039 |월간 코드 챌린지 시즌1|[두 개 뽑아서 더하기][link_level_1_014]|[Solution_039][link_level_1_014_source]|
-| 040 |연습문제|[정수 내림차순으로 배치하기][link_level_1_033]|[Solution_040][link_level_1_033_source]|
-| 041 |찾아라 프로그래밍 마에스터|[폰켓몬][link_level_1_018]|[Solution_041][link_level_1_018_source]|
-| 042 |완전탐색|[모의고사][link_level_1_004]|[Solution_042][link_level_1_004_source]|
-| 043 |2020 카카오 인턴십|[키패드 누르기][link_level_1_037]|[Solution_043][link_level_1_037_source]|
-| 044 |2021 KAKAO BLIND RECRUITMENT|[신규 아이디 추천][link_level_1_003]|[Solution_044][link_level_1_003_source]|
-| 045 |연습문제|[제일 작은 수 제거하기][link_level_1_035]|[Solution_045][link_level_1_035_source]|
-| 046 |월간 코드 챌린지 시즌1|[3진법 뒤집기][link_level_1_010]|[Solution_046][link_level_1_010_source]|
-| 047 |2018 KAKAO BLIND RECRUITMENT|[(1차) 비밀지도][link_level_1_046]|[Solution_047][link_level_1_046_source]|
-| 048 |연습문제|[문자열 내 마음대로 정렬하기][link_level_1_020]|[Solution_048][link_level_1_020_source]|
-| 049 |연습문제|[문자열 내 p와 y의 개수][link_level_1_021]|[Solution_049][link_level_1_021_source]|
-| 050 |연습문제|[두 정수 사이의 합][link_level_1_019]|[Solution_050][link_level_1_019_source]|
-| 052 |연습문제|[자연수 뒤집어 배열로 만들기][link_level_1_032]|[Solution_052][link_level_1_032_source]|
-| 053 |연습문제|[수박수박수박수박수박수?][link_level_1_026]|[Solution_053][link_level_1_026_source]|
+  
+| 번호 | 분류 | 풀이 코드 링크 | 테스트 코드 링크 |
+|:---:|---|---|---|
+| 001 | 연습문제 | [2016년][link_level_1_001_source] | [링크][link_level_1_001_test_source] |
+| 002 | 해시 | [완주하지 못한 선수][link_level_1_002_source] | [링크][link_level_1_002_test_source] |
+| 003 | 연습문제 | [자릿수 더하기][link_level_1_003_source] | [링크][link_level_1_003_test_source] |
+| 004 | 월간 코드 챌린지 시즌3 | [없는 숫자 더하기][link_level_1_004_source] | [링크][link_level_1_004_test_source] |
+| 005 | 월간 코드 챌린지 시즌2 | [음양 더하기][link_level_1_005_source] | [링크][link_level_1_005_test_source] |
+| 006 | 연습문제 | [나누어 떨어지는 숫자 배열][link_level_1_006_source] | [링크][link_level_1_006_test_source] |
+| 007 | 연습문제 | [문자열 내림차순으로 배치하기][link_level_1_007_source] | [링크][link_level_1_007_test_source] |
+| 008 | 연습문제 | [문자열 다루기 기본][link_level_1_008_source] | [링크][link_level_1_008_test_source] |
+| 009 | Summer/Winter Coding(~2018) | [예산][link_level_1_009_source] | [링크][link_level_1_009_test_source] |
+| 010 | 연습문제 | [시저 암호][link_level_1_010_source] | [링크][link_level_1_010_test_source]  |
+| 011 | 연습문제 | [콜라츠 추측][link_level_1_011_source] | [링크][link_level_1_011_test_source]  |
+| 012 | 연습문제 | [문자열을 정수로 바꾸기][link_level_1_012_source] | [링크][link_level_1_012_test_source]  |
+| 013 | 2019 카카오 개발자 겨울 인턴십 | [크레인 인형뽑기 게임][link_level_1_013_source] | [링크][link_level_1_013_test_source]  |
+| 014 | 연습문제| [이상한 문자 만들기][link_level_1_014_source] | [링크][link_level_1_014_test_source]  |
+| 015 | 2018 KAKAO BLIND RECRUITMENT | [(1차) 다트 게임][link_level_1_015_source] | [링크][link_level_1_015_test_source]  |
+| 016 | 월간 코드 챌린지 시즌1| [내적][link_level_1_016_source] | [링크][link_level_1_016_test_source]  |
+| 017 | 연습문제 | [직사각형 별찍기][link_level_1_017_source] | [링크][link_level_1_017_test_source]  |
+| 018 | 연습문제 | [짝수와 홀수][link_level_1_018_source] | [링크][link_level_1_018_test_source]  |
+| 019 | 2019 KAKAO BLIND RECRUITMENT | [실패율][link_level_1_019_source] | [링크][link_level_1_019_test_source]  |
+| 020 | 연습문제 | [서울에서 김서방 찾기][link_level_1_020_source] | [링크][link_level_1_020_test_source]  |
+| 021 | 월간 코드 챌린지 시즌3 | [나머지가 1이 되는 수 찾기][link_level_1_021_source] | [링크][link_level_1_021_test_source]  |
+| 022 | 연습문제 | [소수 찾기][link_level_1_022_source] | [링크][link_level_1_022_test_source]  |
+| 023 | 연습문제 | [평균 구하기][link_level_1_023_source] | [링크][link_level_1_023_test_source]  |
+| 024 | 연습문제 | [가운데 글자 가져오기][link_level_1_024_source] | [링크][link_level_1_024_test_source]  |
+| 025 | 연습문제 | [최대공약수와 최소공배수][link_level_1_025_source] | [링크][link_level_1_025_test_source]  |
+| 026 | 탐욕법(Greedy) | [체육복][link_level_1_026_source] | [링크][link_level_1_026_test_source]  |
+| 027 | 연습문제 | [하샤드 수][link_level_1_027_source] | [링크][link_level_1_027_test_source]  |
+| 028 | 연습문제 | [핸드폰 번호 가리기][link_level_1_028_source] | [링크][link_level_1_028_test_source]  |
+| 029 | 연습문제 | [같은 숫자는 싫어][link_level_1_029_source] | [링크][link_level_1_029_test_source]  |
+| 030 | 연습문제 | [정수 제곱근 판별][link_level_1_030_source] | [링크][link_level_1_030_test_source]  |
+| 031 | 정렬 | [K번째수][link_level_1_031_source] | [링크][link_level_1_031_test_source]  |
+| 032 | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) | [로또의 최고 순위와 최저 순위][link_level_1_032_source] | [링크][link_level_1_032_test_source]  |
+| 033 | Summer/Winter Coding(~2018) | [소수 만들기][link_level_1_033_source] | [링크][link_level_1_033_test_source]  |
+| 034 | 연습문제 | [행렬의 덧셈][link_level_1_034_source] | [링크][link_level_1_034_test_source]  |
+| 035 | 위클리 챌린지 | [최소직사각형][link_level_1_035_source] | [링크][link_level_1_035_test_source]  |
+| 036 | 연습문제 | [x만큼 간격이 있는 n개의 숫자][link_level_1_036_source] | [링크][link_level_1_036_test_source]  |
+| 037 | 월간 코드 챌린지 시즌2 | [약수의 개수와 덧셈][link_level_1_037_source] | [링크][link_level_1_037_test_source]  |
+| 038 | 2021 카카오 채용연계형 인턴십 | [숫자 문자열과 영단어][link_level_1_038_source] | [링크][link_level_1_038_test_source]  |
+| 039 | 월간 코드 챌린지 시즌1 | [두 개 뽑아서 더하기][link_level_1_039_source ]| [링크][link_level_1_039_test_source] |
+| 040 | 연습문제 | [정수 내림차순으로 배치하기][link_level_1_040_source ]| [링크][link_level_1_040_test_source] |
+| 041 | 찾아라 프로그래밍 마에스터 | [폰켓몬][link_level_1_041_source ]| [링크][link_level_1_041_test_source] |
+| 042 | 완전탐색 | [모의고사][link_level_1_042_source ]| [링크][link_level_1_042_test_source] |
+| 043 | 2020 카카오 인턴십 | [키패드 누르기][link_level_1_043_source ]| [링크][link_level_1_043_test_source] |
+| 044 | 2021 KAKAO BLIND RECRUITMENT | [신규 아이디 추천][link_level_1_044_source ]| [링크][link_level_1_044_test_source] |
+| 045 | 연습문제 | [제일 작은 수 제거하기][link_level_1_045_source ]| [링크][link_level_1_045_test_source] |
+| 046 | 월간 코드 챌린지 시즌1 | [3진법 뒤집기][link_level_1_046_source ]| [링크][link_level_1_046_test_source] |
+| 047 | 2018 KAKAO BLIND RECRUITMENT | [(1차) 비밀지도][link_level_1_047_source ]| [링크][link_level_1_047_test_source] |
+| 048 | 연습문제 | [문자열 내 마음대로 정렬하기][link_level_1_048_source ]| [링크][link_level_1_048_test_source] |
+| 049 | 연습문제 | [문자열 내 p와 y의 개수][link_level_1_049_source ]| [링크][link_level_1_049_test_source] |
+| 050 | 연습문제 | [두 정수 사이의 합][link_level_1_050_source ]| [링크][link_level_1_050_test_source] |
+| 051 | 연습문제 | [약수의 합][link_level_1_051_source ]| [링크][link_level_1_051_test_source] |
+| 052 | 연습문제 | [자연수 뒤집어 배열로 만들기][link_level_1_052_source ]| [링크][link_level_1_052_test_source] |
+| 053 | 연습문제 | [수박수박수박수박수박수?][link_level_1_053_source ]| [링크][link_level_1_053_test_source] |
 
   
 　  
@@ -488,58 +490,6 @@
 [link_level_0_099_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_099_test.java
 [link_level_0_100_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level0/Solution_100_test.java
 
-[link_level_1_001]:https://xxxelppa.tistory.com/137
-[link_level_1_002]:https://xxxelppa.tistory.com/139
-[link_level_1_003]:https://xxxelppa.tistory.com/138
-[link_level_1_004]:https://xxxelppa.tistory.com/140
-[link_level_1_005]:https://xxxelppa.tistory.com/141
-[link_level_1_006]:https://xxxelppa.tistory.com/142
-[link_level_1_007]:https://xxxelppa.tistory.com/143
-[link_level_1_008]:https://xxxelppa.tistory.com/144
-[link_level_1_009]:https://xxxelppa.tistory.com/145
-[link_level_1_010]:https://xxxelppa.tistory.com/146
-[link_level_1_011]:https://xxxelppa.tistory.com/149
-[link_level_1_012]:https://xxxelppa.tistory.com/148
-[link_level_1_013]:https://xxxelppa.tistory.com/152
-[link_level_1_014]:https://xxxelppa.tistory.com/150
-[link_level_1_015]:https://xxxelppa.tistory.com/151
-[link_level_1_016]:https://xxxelppa.tistory.com/147
-[link_level_1_017]:https://xxxelppa.tistory.com/153
-[link_level_1_018]:https://xxxelppa.tistory.com/154
-[link_level_1_019]:https://xxxelppa.tistory.com/155
-[link_level_1_020]:https://xxxelppa.tistory.com/156
-[link_level_1_021]:https://xxxelppa.tistory.com/157
-[link_level_1_022]:https://xxxelppa.tistory.com/158
-[link_level_1_023]:https://xxxelppa.tistory.com/159
-[link_level_1_024]:https://xxxelppa.tistory.com/160
-[link_level_1_025]:https://xxxelppa.tistory.com/161
-[link_level_1_026]:https://xxxelppa.tistory.com/162
-[link_level_1_027]:https://xxxelppa.tistory.com/163
-[link_level_1_028]:https://xxxelppa.tistory.com/164
-[link_level_1_029]:https://xxxelppa.tistory.com/165
-[link_level_1_030]:https://xxxelppa.tistory.com/166
-[link_level_1_031]:https://xxxelppa.tistory.com/167
-[link_level_1_032]:https://xxxelppa.tistory.com/168
-[link_level_1_033]:https://xxxelppa.tistory.com/169
-[link_level_1_034]:https://xxxelppa.tistory.com/170
-[link_level_1_035]:https://xxxelppa.tistory.com/171
-[link_level_1_036]:https://xxxelppa.tistory.com/172
-[link_level_1_037]:https://xxxelppa.tistory.com/173
-[link_level_1_038]:https://xxxelppa.tistory.com/174
-[link_level_1_039]:https://xxxelppa.tistory.com/175
-[link_level_1_040]:https://xxxelppa.tistory.com/176
-[link_level_1_041]:https://xxxelppa.tistory.com/177
-[link_level_1_042]:https://xxxelppa.tistory.com/178
-[link_level_1_043]:https://xxxelppa.tistory.com/179
-[link_level_1_044]:https://xxxelppa.tistory.com/180
-[link_level_1_045]:https://xxxelppa.tistory.com/181
-[link_level_1_046]:https://xxxelppa.tistory.com/182
-[link_level_1_047]:https://xxxelppa.tistory.com/183
-[link_level_1_048]:https://xxxelppa.tistory.com/184
-[link_level_1_049]:https://xxxelppa.tistory.com/343
-[link_level_1_050]:https://xxxelppa.tistory.com/344
-[link_level_1_051]:https://xxxelppa.tistory.com/345
-
 [link_level_1_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/level1/Solution_001.java
 [link_level_1_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/level1/Solution_002.java
 [link_level_1_003_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/level1/Solution_003.java
@@ -591,6 +541,62 @@
 [link_level_1_049_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/level1/Solution_049.java
 [link_level_1_050_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/level1/Solution_050.java
 [link_level_1_051_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/level1/Solution_051.java
+[link_level_1_052_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/level1/Solution_052.java
+[link_level_1_053_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/level1/Solution_053.java
+
+[link_level_1_001_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_001_test.java
+[link_level_1_002_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_002_test.java
+[link_level_1_003_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_003_test.java
+[link_level_1_004_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_004_test.java
+[link_level_1_005_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_005_test.java
+[link_level_1_006_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_006_test.java
+[link_level_1_007_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_007_test.java
+[link_level_1_008_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_008_test.java
+[link_level_1_009_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_009_test.java
+[link_level_1_010_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_010_test.java
+[link_level_1_011_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_011_test.java
+[link_level_1_012_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_012_test.java
+[link_level_1_013_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_013_test.java
+[link_level_1_014_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_014_test.java
+[link_level_1_015_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_015_test.java
+[link_level_1_016_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_016_test.java
+[link_level_1_017_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_017_test.java
+[link_level_1_018_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_018_test.java
+[link_level_1_019_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_019_test.java
+[link_level_1_020_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_020_test.java
+[link_level_1_021_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_021_test.java
+[link_level_1_022_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_022_test.java
+[link_level_1_023_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_023_test.java
+[link_level_1_024_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_024_test.java
+[link_level_1_025_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_025_test.java
+[link_level_1_026_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_026_test.java
+[link_level_1_027_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_027_test.java
+[link_level_1_028_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_028_test.java
+[link_level_1_029_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_029_test.java
+[link_level_1_030_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_030_test.java
+[link_level_1_031_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_031_test.java
+[link_level_1_032_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_032_test.java
+[link_level_1_033_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_033_test.java
+[link_level_1_034_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_034_test.java
+[link_level_1_035_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_035_test.java
+[link_level_1_036_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_036_test.java
+[link_level_1_037_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_037_test.java
+[link_level_1_038_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_038_test.java
+[link_level_1_039_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_039_test.java
+[link_level_1_040_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_040_test.java
+[link_level_1_041_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_041_test.java
+[link_level_1_042_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_042_test.java
+[link_level_1_043_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_043_test.java
+[link_level_1_044_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_044_test.java
+[link_level_1_045_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_045_test.java
+[link_level_1_046_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_046_test.java
+[link_level_1_047_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_047_test.java
+[link_level_1_048_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_048_test.java
+[link_level_1_049_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_049_test.java
+[link_level_1_050_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_050_test.java
+[link_level_1_051_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_051_test.java
+[link_level_1_052_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_052_test.java
+[link_level_1_053_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/level1/Solution_053_test.java
 
 
 [link_level_2_001]:https://xxxelppa.tistory.com/208
