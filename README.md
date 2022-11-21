@@ -142,11 +142,11 @@
 ---
   
 | 번호 | 분류 | 풀이 코드 링크 | 테스트 코드 링크 |
-|:---:|---|---|---|
+|:--:|---|---|---|
 | 001 | 연습문제 | [2016년][link_level_1_001_source] | [링크][link_level_1_001_test_source] |
 | 002 | 해시 | [완주하지 못한 선수][link_level_1_002_source] | [링크][link_level_1_002_test_source] |
-| 003 | 연습문제 | [자릿수 더하기][link_level_1_003_source] | [링크][link_level_1_003_test_source] |
-| 004 | 월간 코드 챌린지 시즌3 | [없는 숫자 더하기][link_level_1_004_source] | [링크][link_level_1_004_test_source] |
+| 003 | 연습문제 | [없는 숫자 더하기][link_level_1_003_source] | [링크][link_level_1_003_test_source] |
+| 004 | 월간 코드 챌린지 시즌3 | [자릿수 더하기][link_level_1_004_source] | [링크][link_level_1_004_test_source] |
 | 005 | 월간 코드 챌린지 시즌2 | [음양 더하기][link_level_1_005_source] | [링크][link_level_1_005_test_source] |
 | 006 | 연습문제 | [나누어 떨어지는 숫자 배열][link_level_1_006_source] | [링크][link_level_1_006_test_source] |
 | 007 | 연습문제 | [문자열 내림차순으로 배치하기][link_level_1_007_source] | [링크][link_level_1_007_test_source] |
