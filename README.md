@@ -159,7 +159,7 @@
 | 014 | [이상한 문자 만들기<sub>연습문제</sub>][link_level_1_014_source] | [링크][link_level_1_014_test_source] |
 | 015 | [(1차) 다트 게임<sub>2018 KAKAO BLIND RECRUITMENT</sub>][link_level_1_015_source] | [링크][link_level_1_015_test_source] |
 | 016 | [내적<sub>월간 코드 챌린지 시즌1</sub>][link_level_1_016_source] | [링크][link_level_1_016_test_source] |
-| 017 | [직사각형 별찍기][link_level_1_017_source] |  |
+| 017 | [직사각형 별찍기<sub>연습문제</sub>][link_level_1_017_source] |  |
 | 018 | [짝수와 홀수<sub>연습문제</sub>][link_level_1_018_source] | [링크][link_level_1_018_test_source] |
 | 019 | [실패율<sub>2019 KAKAO BLIND RECRUITMENT</sub>][link_level_1_019_source] | [링크][link_level_1_019_test_source] |
 | 020 | [서울에서 김서방 찾기<sub>연습문제</sub>][link_level_1_020_source] | [링크][link_level_1_020_test_source] |
