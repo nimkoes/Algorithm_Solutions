@@ -1,13 +1,11 @@
   
-# programmers_code
+# Algorithm_Solutions
   
-## 프로그래머스 문제 풀이 코드
+## 알고리줌 문제 풀이 코드 모음
   
   
 - **레벨 단위**로 패키지 생성  
-- 이 프로젝트 내 클래스 이름은 **언더스코어 '_' 로 시작**하는 것으로 통일  
 - 대부분의 **설명은 코드 내 주석**으로 작성 했으며, [**필요에 따라** 블로그에](https://xxxelppa.tistory.com/category/algorithm) 일부 별도의 설명을 추가  
-- **클래스명은 구글 번역기 사용** <sub>문제 풀이를 추가하면서 클래스 이름을 변경할 예정입니다.</sub>
   
 　  
 ![programmers_skill_level](https://github.com/nimkoes/programmers_code/blob/master/programmers_skill_level.PNG?raw=true "programmers_skill_level")
