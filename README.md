@@ -1,34 +1,27 @@
   
 # Algorithm_Solutions
   
-## 알고리줌 문제 풀이 코드 모음
+## 알고리즘 문제 풀이 코드 모음
   
   
 - **레벨 단위**로 패키지 생성  
 - 대부분의 **설명은 코드 내 주석**으로 작성 했으며, [**필요에 따라** 블로그에](https://xxxelppa.tistory.com/category/algorithm) 일부 별도의 설명을 추가  
-  
-　  
-![programmers_skill_level](https://github.com/nimkoes/programmers_code/blob/master/programmers_skill_level.PNG?raw=true "programmers_skill_level")
-　  
-  
-- '**문제이름**'을 클릭하면 블로그 게시물로 이동
-- '**클래스이름**'을 클릭하면 깃헙 저장소로 커밋된 코드로 이동
-- test.{FQCN} 위치에 '**입출력 예**' 에 해당하는 테스트 코드 작성
-  
-　  
-　  
-  
+- '**문제이름**'을 클릭하면 풀이 코드로 이동
 - 라이브러리
   - org.junit.jupiter:junit-jupiter:5.7.1
   - org.assertj:assertj-core:3.19.0
   - org.projectlombok:lombok:1.18.16
-  
-  
-##  programmers  
----
+
 　  
 　  
-  
+
+## leetcode  
+　  
+　  
+　  
+
+
+## programmers  
 ### level 0  
 ---
   
@@ -264,7 +257,7 @@
 　  
 　  
   
-#### level 3
+### level 3
 ---
   
 |번호|분류|문제이름|클래스이름|
@@ -278,7 +271,7 @@
 　  
 　  
   
-#### weekly challenge
+### weekly challenge
 ---
   
 |구분|문제이름|
