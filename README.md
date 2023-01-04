@@ -217,7 +217,8 @@
 | 052 | [자연수 뒤집어 배열로 만들기<sub>연습문제</sub>][link_programmers_level_1_052_source]                               | [링크][link_programmers_level_1_052_test_source] |
 | 053 | [수박수박수박수박수박수?<sub>연습문제</sub>][link_programmers_level_1_053_source]                                  | [링크][link_programmers_level_1_053_test_source] |
 | 054 | [삼총사<sub>연습문제</sub>][link_programmers_level_1_054_source]                                           | [링크][link_programmers_level_1_054_test_source] |
-| 054 | [가장 가까운 같은 글자<sub>연습문제</sub>][link_programmers_level_1_055_source]                                  | [링크][link_programmers_level_1_055_test_source] |
+| 055 | [가장 가까운 같은 글자<sub>연습문제</sub>][link_programmers_level_1_055_source]                                  | [링크][link_programmers_level_1_055_test_source] |
+| 056 | [크기가 작은 부분문자열<sub>연습문제</sub>][link_programmers_level_1_056_source]                                  | [링크][link_programmers_level_1_056_test_source] |
 
   
 　  
@@ -575,6 +576,8 @@
 [link_programmers_level_1_053_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/programmers/level1/Solution_053.java
 [link_programmers_level_1_054_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/programmers/level1/Solution_054.java
 [link_programmers_level_1_055_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/programmers/level1/Solution_055.java
+[link_programmers_level_1_056_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/programmers/level1/Solution_056.java
+
 
 [link_programmers_level_1_001_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/programmers/level1/Solution_001_test.java
 [link_programmers_level_1_002_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/programmers/level1/Solution_002_test.java
@@ -631,6 +634,7 @@
 [link_programmers_level_1_053_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/programmers/level1/Solution_053_test.java
 [link_programmers_level_1_054_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/programmers/level1/Solution_054_test.java
 [link_programmers_level_1_055_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/programmers/level1/Solution_055_test.java
+[link_programmers_level_1_056_test_source]:https://github.com/nimkoes/programmers_code/blob/master/src/test/com/nimkoes/programmers/level1/Solution_056_test.java
 
 
 [link_programmers_level_2_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/programmers/level2/Solution_001.java
