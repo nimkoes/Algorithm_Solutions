@@ -19,9 +19,10 @@
 ### easy
 ---
 
-| 번호 | 풀이 코드 링크                                                                                  |
+| 번호  | 풀이 코드 링크                                                                                  |
 |:---:|-------------------------------------------------------------------------------------------|
 | 001 | [2144. Minimum Cost of Buying Candies With Discount][link_leetcode_level_easy_001_source] |
+| 002 | [605. Can Place Flowers][link_leetcode_level_easy_002_source]                             |
 
 
 　  
@@ -313,6 +314,7 @@
 
 
 [link_leetcode_level_easy_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/easy/Solution_001.java
+[link_leetcode_level_easy_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/easy/Solution_002.java
 
 [link_leetcode_level_medium_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_001.java
 [link_leetcode_level_medium_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_002.java
