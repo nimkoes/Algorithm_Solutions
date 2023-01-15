@@ -3,8 +3,7 @@ package com.nimkoes.programmers.level1;
 public class Solution_057 {
     public int solution(int a, int b, int n) {
         int answer = 0, temp;
-        while (true) {
-            if (n < a) break;
+        while (n >= a) {
             answer += (temp = (n / a) * b);
             n = temp + (n % a);
         }
