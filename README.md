@@ -35,6 +35,7 @@
 | 001 | [1038. Binary Search Tree to Greater Sum Tree][link_leetcode_level_medium_001_source] |
 | 002 | [2125. Number of Laser Beams in a Bank][link_leetcode_level_medium_002_source]        |
 | 003 | [78. Subsets][link_leetcode_level_medium_003_source]                                  |
+| 004 | [1884. Egg Drop With 2 Eggs and N Floors][link_leetcode_level_medium_004_source]      |
   
 　  
 
@@ -321,6 +322,7 @@
 [link_leetcode_level_medium_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_001.java
 [link_leetcode_level_medium_002_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_002.java
 [link_leetcode_level_medium_003_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_003.java
+[link_leetcode_level_medium_004_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_004.java
 
 
 [link_programmers_level_0_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/programmers/level0/Solution_001.java
