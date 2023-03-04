@@ -1,6 +1,5 @@
 package com.nimkoes.programmers.level0;
 
-import com.nimkoes.programmers.level0.Solution_001;
 import lombok.Builder;
 import lombok.Getter;
 import org.junit.jupiter.api.BeforeEach;

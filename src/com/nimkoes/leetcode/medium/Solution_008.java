@@ -38,7 +38,7 @@ public class Solution_008 {
 }
 
 /* result summary
-Runtime: 43 ms, faster than 62.86%% of Java online submissions for Minimum Operations to Make a Uni-Value Grid.
+Runtime: 43 ms, faster than 62.86% of Java online submissions for Minimum Operations to Make a Uni-Value Grid.
 Memory Usage: 70.4 MB, less than 56.19% of Java online submissions for Minimum Operations to Make a Uni-Value Grid.
  */
 
