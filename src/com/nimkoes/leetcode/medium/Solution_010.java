@@ -7,8 +7,7 @@ public class Solution_010 {
         Arrays.parallelSort(piles);
 
         int result = 0, size = piles.length;
-        int[] newPiles = Arrays.copyOfRange(piles, size / 3, size);
-        for (int i = 0; i < newPiles.length; i += 2) result += newPiles[i];
+        for (int i = size - 1; i > size / 3; i -= 2) result += piles[i - 1];
 
         return result;
     }
@@ -16,6 +15,6 @@ public class Solution_010 {
 
 /* result summary
 Runtime: 32 ms, faster than 58.44% of Java online submissions for Maximum Number of Coins You Can Get.
-Memory Usage:  51.5 MB, less than 34.80% of Java online submissions for Maximum Number of Coins You Can Get.
+Memory Usage:  50.9 MB, less than 91.48% of Java online submissions for Maximum Number of Coins You Can Get.
  */
 
