@@ -42,7 +42,8 @@
 | 008 | [2033. Minimum Operations to Make a Uni-Value Grid][link_leetcode_level_medium_008_source]      |
 | 009 | [1828. Queries on Number of Points Inside a Circle][link_leetcode_level_medium_009_source]      |
 | 010 | [1561. Maximum Number of Coins You Can Get][link_leetcode_level_medium_010_source]      |
-| 010 | [2317. Maximum XOR After Operations][link_leetcode_level_medium_011_source]      |
+| 011 | [2317. Maximum XOR After Operations][link_leetcode_level_medium_011_source]      |
+| 012 | [2442. Count Number of Distinct Integers After Reverse Operations][link_leetcode_level_medium_012_source]      |
   
 　  
 
@@ -337,6 +338,7 @@
 [link_leetcode_level_medium_009_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_009.java
 [link_leetcode_level_medium_010_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_010.java
 [link_leetcode_level_medium_011_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_011.java
+[link_leetcode_level_medium_012_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_012.java
 
 
 [link_programmers_level_0_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/programmers/level0/Solution_001.java
