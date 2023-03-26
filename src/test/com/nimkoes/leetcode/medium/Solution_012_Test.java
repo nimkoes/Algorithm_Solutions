@@ -42,7 +42,7 @@ class Solution_012_Test {
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
                 .nums(new int[]{2, 2, 2})
-                .expected(2)
+                .expected(1)
                 .build();
 
         assertThat(solution.countDistinctIntegers(testCase.getNums()))
