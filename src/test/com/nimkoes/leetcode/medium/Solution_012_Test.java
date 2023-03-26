@@ -15,7 +15,7 @@ class Solution_012_Test {
     @Getter
     static class TestCase {
         int[] nums;
-        int[] expected;
+        int expected;
     }
 
     Solution_012 solution;
@@ -30,7 +30,7 @@ class Solution_012_Test {
     void test_01() {
         TestCase testCase = new TestCase.TestCaseBuilder()
                 .nums(new int[]{1, 13, 10, 12, 31})
-                .expected(new int[]{1, 13, 10, 12, 31, 1, 31, 1, 21, 13})
+                .expected(6)
                 .build();
 
         assertThat(solution.countDistinctIntegers(testCase.getNums()))
@@ -42,7 +42,7 @@ class Solution_012_Test {
     void test_02() {
         TestCase testCase = new TestCase.TestCaseBuilder()
                 .nums(new int[]{2, 2, 2})
-                .expected(new int[]{2, 2, 2, 2, 2, 2})
+                .expected(2)
                 .build();
 
         assertThat(solution.countDistinctIntegers(testCase.getNums()))

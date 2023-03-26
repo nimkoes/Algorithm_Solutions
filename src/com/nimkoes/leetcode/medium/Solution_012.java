@@ -2,8 +2,9 @@ package com.nimkoes.leetcode.medium;
 
 public class Solution_012 {
     public int countDistinctIntegers(int[] nums) {
+        int result = 0;
 
-        return 0;
+        return result;
     }
 }
 
