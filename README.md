@@ -47,6 +47,7 @@
 | 013 | [2221. Find Triangular Sum of an Array][link_leetcode_level_medium_013_source]      |
 | 014 | [1823. Find the Winner of the Circular Game][link_leetcode_level_medium_014_source]      |
 | 015 | [1442. Count Triplets That Can Form Two Arrays of Equal XOR][link_leetcode_level_medium_015_source]      |
+| 016 | [1806. Minimum Number of Operations to Reinitialize a Permutation][link_leetcode_level_medium_016_source]      |
   
 　  
 
@@ -345,6 +346,7 @@
 [link_leetcode_level_medium_013_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_013.java
 [link_leetcode_level_medium_014_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_014.java
 [link_leetcode_level_medium_015_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_015.java
+[link_leetcode_level_medium_016_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/leetcode/medium/Solution_016.java
 
 
 [link_programmers_level_0_001_source]:https://github.com/nimkoes/programmers_code/blob/master/src/com/nimkoes/programmers/level0/Solution_001.java
